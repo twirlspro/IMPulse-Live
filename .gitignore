@@ -1,0 +1,6 @@
+# User configuration & caches
+config.json
+*.tmp
+player_stats_cache.json
+remote_config_cache.json
+*.log
