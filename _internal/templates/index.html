@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMPulse Live</title>
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}?v=19">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 3D CYBER NETWORK LOADER (Pure particles, hidden by default for desktop splash) -->
+        <div id="app-loader" class="app-loader hidden">
+            <canvas id="loader-canvas"></canvas>
+        </div>
+
+        <!-- HEADER -->
+        <header class="header pywebview-drag-region">
+            <div class="logo">
+                <span class="neon-text">IMPULSE</span>
+                <div id="live-indicator" class="live-indicator ready">
+                    <span class="live-dot"></span>READY
+                </div>
+            </div>
+            
+            <div class="header-controls">
+                <div class="sync-indicators">
+                    <span id="sync-status" class="status-badge" style="display: none;">Syncing...</span>
+                    <span id="dataset-status" class="status-badge" style="display: none;">Updating...</span>
+                </div>
+                <button id="btn-lang" class="icon-btn" data-i18n-title="lang_title" title="Language">EN</button>
+                <button id="btn-toggle-settings" class="icon-btn" data-i18n-title="settings_title" title="Settings"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg></button>
+            </div>
+        </header>
+
+        <!-- MAIN CONTENT -->
+        <main class="main-content">
+            <!-- LIVE DRAFT (Radiant Left, Dire Right) -->
+            <div class="draft-card pywebview-drag-region">
+                <div class="draft-side radiant-side">
+                    <div class="hero-slots" id="radiant-slots">
+                        <div class="slot empty"></div>
+                        <div class="slot empty"></div>
+                        <div class="slot empty"></div>
+                        <div class="slot empty"></div>
+                        <div class="slot empty"></div>
+                    </div>
+                </div>
+                
+                <div id="draft-evaluation" class="draft-eval-badge hidden">
+                    <span id="eval-team" class="eval-team"></span>
+                    <span id="eval-value" class="eval-value"></span>
+                </div>
+                
+                <div class="draft-side dire-side">
+                    <div class="hero-slots" id="dire-slots">
+                        <div class="slot empty"></div>
+                        <div class="slot empty"></div>
+                        <div class="slot empty"></div>
+                        <div class="slot empty"></div>
+                        <div class="slot empty"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="draft-eval-panel" class="draft-eval-panel hidden">
+                <div class="eval-team-section rad-eval-section">
+                    <div class="eval-hero-scores" id="rad-hero-scores"></div>
+                </div>
+                <div class="eval-team-section dire-eval-section">
+                    <div class="eval-hero-scores" id="dire-hero-scores"></div>
+                </div>
+            </div>
+
+            <!-- ALWAYS ACCESSIBLE FILTERS (Team, Role) -->
+            <div class="quick-filters pywebview-drag-region">
+                <div class="segmented-control" id="ctrl-team">
+                    <button data-val="radiant" data-i18n="radiant" class="active">Radiant</button>
+                    <button data-val="dire" data-i18n="dire">Dire</button>
+                </div>
+                <div class="segmented-control" id="ctrl-role">
+                    <button data-val="1">1</button>
+                    <button data-val="2">2</button>
+                    <button data-val="3">3</button>
+                    <button data-val="4">4</button>
+                    <button data-val="5">5</button>
+                    <button data-val="all" data-i18n="relaxed" class="active">All</button>
+                </div>
+            </div>
+
+            <!-- SETTINGS PANEL (Hidden by default) -->
+            <div id="settings-panel" class="settings-panel hidden">
+                <div class="settings-tabs">
+                    <button type="button" class="settings-tab-btn active" data-tab="tab-scoring" data-i18n="tab_scoring">Scoring</button>
+                    <button type="button" class="settings-tab-btn" data-tab="tab-app" data-i18n="tab_app">App</button>
+                </div>
+
+                <div id="tab-scoring" class="settings-tab-content active">
+                    <div class="settings-grid">
+                        <div class="filter-group full-width">
+                            <label data-i18n="steam_id">Steam ID</label>
+                            <div class="steam-sync">
+                                <input type="text" id="steam-id" placeholder="Steam ID">
+                                <button id="btn-sync" class="icon-btn" data-i18n-title="sync_title" title="Sync with Stratz">
+                                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                                        <path d="M3 12a9 9 0 0 1 15-6.7L21 8"></path>
+                                        <path d="M21 3v5h-5"></path>
+                                        <path d="M21 12a9 9 0 0 1-15 6.7L3 16"></path>
+                                        <path d="M3 21v-5h5"></path>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="filter-group">
+                            <label data-i18n="range" data-i18n-title="range_title" title="Time period for meta statistics aggregation">Data Period</label>
+                            <select id="ctrl-mode-select" class="settings-select">
+                                <option value="2w" data-i18n="opt_2w">2 Weeks</option>
+                                <option value="1m" data-i18n="opt_1m" selected>1 Month</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label data-i18n="rank" data-i18n-title="rank_title" title="Filter meta stats by player rank bracket">Rank</label>
+                            <select id="ctrl-rank-select" class="settings-select">
+                                <option value="all" data-i18n="rank_all">All Ranks</option>
+                                <option value="HERALD_GUARDIAN" data-i18n="rank_herald">Herald-Guardian</option>
+                                <option value="CRUSADER_ARCHON" data-i18n="rank_archon">Crusader-Archon</option>
+                                <option value="LEGEND_ANCIENT" data-i18n="rank_ancient">Legend-Ancient</option>
+                                <option value="DIVINE_IMMORTAL" data-i18n="rank_divine">Divine-Immortal</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label data-i18n="mode" data-i18n-title="mode_title" title="Scoring algorithm for hero recommendations">Analysis</label>
+                            <div class="segmented-control" id="ctrl-calc">
+                                <button data-val="meta" data-i18n="meta" class="active">Meta</button>
+                                <button data-val="delta" data-i18n="matchup">Matchup</button>
+                                <button data-val="hybrid" data-i18n="hybrid">Hybrid</button>
+                                <button data-val="smart" data-i18n="personal">Personal</button>
+                            </div>
+                        </div>
+                        <div class="filter-group">
+                            <label data-i18n="pick_rate" data-i18n-title="pick_rate_title" title="Filter heroes by popularity in current meta">Pick Rate</label>
+                            <div class="segmented-control" id="ctrl-popularity">
+                                <button data-val="all" data-i18n="any_pr">Any</button>
+                                <button data-val="meta" data-i18n="average_pr" class="active">Average</button>
+                                <button data-val="popular" data-i18n="high_pr">High</button>
+                            </div>
+                        </div>
+                        <div class="filter-group personal-only" style="display: none;">
+                            <label data-i18n="experience" data-i18n-title="experience_title" title="Minimum games required to recommend a hero">Experience</label>
+                            <div class="segmented-control" id="ctrl-strictness">
+                                <button data-val="relaxed" data-i18n="relaxed">All</button>
+                                <button data-val="normal" data-i18n="familiar" class="active">Familiar</button>
+                                <button data-val="tryhard" data-i18n="mains">Mains</button>
+                            </div>
+                        </div>
+                        <div class="filter-group personal-only" style="display: none;">
+                            <label data-i18n="hero_stats" data-i18n-title="hero_stats_title" title="Use overall or role-specific player statistics">Hero Stats</label>
+                            <div class="segmented-control" id="ctrl-role-transfer">
+                                <button data-val="true" data-i18n="overall">Overall</button>
+                                <button data-val="false" data-i18n="by_role" class="active">By Role</button>
+                            </div>
+                        </div>
+                        <div class="filter-group personal-only" style="display: none;">
+                            <label data-i18n="patch_relevance" data-i18n-title="patch_relevance_title" title="Hide heroes you haven't played since last major patch">Patch Relevance</label>
+                            <div class="segmented-control" id="ctrl-decay">
+                                <button data-val="true" data-i18n="enabled">Enabled</button>
+                                <button data-val="false" data-i18n="disabled" class="active">Disabled</button>
+                            </div>
+                        </div>
+                        <div class="filter-group personal-only" style="display: none;">
+                            <label data-i18n="eval_method" data-i18n-title="eval_method_title" title="Calculation method: Balance, Mastery, or Odds">Method</label>
+                            <div class="segmented-control" id="ctrl-eval-method">
+                                <button data-val="bayes" data-i18n="method_bayes" data-i18n-title="method_bayes_title" title="Balance: optimal blend between draft strength and personal experience" class="active">Balance</button>
+                                <button data-val="signature" data-i18n="method_signature" data-i18n-title="method_signature_title" title="Mastery: prioritizes your proven signature heroes">Mastery</button>
+                                <button data-val="logit" data-i18n="method_logit" data-i18n-title="method_logit_title" title="Odds: mathematically rigorous win probability model (Log-Odds)">Odds</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="tab-app" class="settings-tab-content" style="display: none;">
+                    <div class="settings-grid">
+                        <div class="filter-group full-width">
+                            <label data-i18n="hotkey_label" data-i18n-title="hotkey_title" title="Global hotkey to show/hide the overlay in-game">Overlay Hotkey</label>
+                            <select id="ctrl-hotkey" class="settings-select">
+                                <option value="INSERT">Insert</option>
+                                <option value="F11">F11</option>
+                                <option value="F10">F10</option>
+                                <option value="F9">F9</option>
+                                <option value="HOME">Home</option>
+                                <option value="DELETE">Delete</option>
+                                <option value="TILDE">~ (Tilde)</option>
+                            </select>
+                        </div>
+                        <div class="filter-group full-width">
+                            <label data-i18n="opacity_label" data-i18n-title="opacity_title" title="Overlay window opacity over Dota 2">Window Opacity</label>
+                            <div class="segmented-control" id="ctrl-opacity">
+                                <button data-val="100">100%</button>
+                                <button data-val="90" class="active">90%</button>
+                                <button data-val="80">80%</button>
+                                <button data-val="70">70%</button>
+                            </div>
+                        </div>
+                        <div class="filter-group full-width">
+                            <label data-i18n="perf_label" data-i18n-title="perf_title" title="Balance between detection speed and CPU usage">Performance</label>
+                            <div class="segmented-control" id="ctrl-perf">
+                                <button data-val="eco" data-i18n="perf_eco">Eco</button>
+                                <button data-val="balanced" data-i18n="perf_balanced" class="active">Normal</button>
+                                <button data-val="high" data-i18n="perf_high">High</button>
+                            </div>
+                        </div>
+                        <div class="filter-group full-width app-version-badge">
+                            <span>IMPulse Live v1.0.0 • AI Draft Assistant</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- TABLE -->
+            <div class="table-container">
+                <table class="recs-table">
+                    <thead>
+                        <tr>
+                            <th class="col-hero" data-i18n="hero" data-i18n-title="hero_title" title="Hero name">Hero</th>
+                            <th class="col-meta" data-i18n="th_meta" data-i18n-title="th_meta_title" title="Meta Winrate">Meta</th>
+                            <th data-i18n="th_syn" data-i18n-title="th_syn_title" title="Synergy with allies">Syn</th>
+                            <th data-i18n="th_cnt" data-i18n-title="th_cnt_title" title="Counter vs enemies">Cnt</th>
+                            <th class="smart-col" data-i18n="th_matches" data-i18n-title="th_matches_title" title="Player matches">M</th>
+                            <th class="smart-col" data-i18n="th_player" data-i18n-title="th_player_title" title="Player winrate">Player</th>
+                            <th data-i18n="th_adv" data-i18n-title="th_adv_title" title="Final advantage score">Adv</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recs-body">
+                        <!-- Rows injected via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}?v=11"></script>
+</body>
+</html>
