@@ -27,11 +27,8 @@
 
 ## 🚀 Быстрый старт
 
-1. Скачайте архив репозитория (**[Download ZIP](https://github.com/twirlspro/IMPulse-Live/archive/refs/heads/main.zip)**) или склонируйте его:
-   ```bash
-   git clone https://github.com/twirlspro/IMPulse-Live.git
-   ```
-2. Откройте папку и запустите **`IMPulseLive.exe`**.
+1. Скачайте релизный архив (**[⚡ Скачать IMPulse Live Beta 0.1 (.zip)](https://github.com/twirlspro/IMPulse-Live/releases/download/v0.1-beta/IMPulse-Live-v0.1-beta.zip)**) или выберите версию на странице **[Releases](https://github.com/twirlspro/IMPulse-Live/releases)**.
+2. Распакуйте архив в любую удобную папку и запустите **`IMPulseLive.exe`**.
 3. *(Опционально)* Нажмите шестеренку (⚙️) и укажите свой **Steam ID**, затем нажмите **«Синхронизировать»** для загрузки персональной статистики.
 4. На стадии выбора героев в Dota 2 окно автоматически отобразит лучшие варианты для вашего пика.
 
