@@ -1,6 +1,6 @@
 {
     "sync_enabled": true,
-    "min_version": "1.0.0",
+    "min_version": "2.0.0",
     "status_message": "OK",
     "telegram_url": "https://t.me/impulse_dota",
     "meta_timestamps": {
@@ -11,11 +11,11 @@
         "LEGEND_ANCIENT": 1789136930.8261297
     },
     "daily_timestamps": {
-        "all": 1789572346.914343,
-        "HERALD_GUARDIAN": 1789572347.6840162,
-        "CRUSADER_ARCHON": 1789572348.4547412,
-        "LEGEND_ANCIENT": 1789572349.2052357,
-        "DIVINE_IMMORTAL": 1789572350.0080981
+        "all": 1789621965.2420056,
+        "HERALD_GUARDIAN": 1789621966.011846,
+        "CRUSADER_ARCHON": 1789621966.7432399,
+        "LEGEND_ANCIENT": 1789621967.477326,
+        "DIVINE_IMMORTAL": 1789621968.2134178
     },
     "api_token": "MzwjJxlAEzM1L0AsQyBDXUQtOBeJbXAUThotSjFHJDdMOjOAdEcfLS8KJS4TTBI6Y0whLikzHIEPiH8gQjIfMjUrLDlkQjyKbkcRRiATRUQXFD1GEzgyLR81iHwJgRU3EkY0HxBLEisOJIcMJEExYhVDRj54MxFAW0YrLVaOhGZhJRcUJjcgLz5KORIwQHUqHUMZLgwfOyhkSjM/DgoRVmZ2aI14GUwpZiILQygsRhFFLRwsLFIbCQo2RBYoSi4vQj0WalCIVh2DMEU6NkE9Sw0pLBJuRxNIKxE+NTIlJwkLNyU0LSlbihaSOTRoGjQgIEoPZykiKBkNKSc2iBcpMnMRHFoWHoJfG2BuKmQ5Iy0jXmslNS0oQRIjNFEnKRAxLxw3LmMfRRQSQz8+DAxyiB4tMiA4UDA="
 }
