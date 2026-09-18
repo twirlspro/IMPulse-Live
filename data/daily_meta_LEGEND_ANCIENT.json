@@ -1,3664 +1,1808 @@
 {
-  "updatedAt": 1789621967.477326,
+  "updatedAt": 1789755748.4861906,
   "rank": "LEGEND_ANCIENT",
   "days": [
-    1789516800,
-    1789430400
+    1789603200,
+    1789516800
   ],
-  "totalMatches": 116145,
+  "totalMatches": 119209,
   "baseWinrates": {
     "1": {
-      "winCount": 7328,
-      "matchCount": 14446,
-      "winrate": 0.50727,
+      "winCount": 8239,
+      "matchCount": 15991,
+      "winrate": 0.51523,
       "positions": {
         "1": {
-          "winCount": 6654,
-          "matchCount": 13029,
-          "winrate": 0.51071
+          "winCount": 7579,
+          "matchCount": 14611,
+          "winrate": 0.51872
         },
         "2": {
-          "winCount": 322,
-          "matchCount": 627,
-          "winrate": 0.51356
+          "winCount": 352,
+          "matchCount": 693,
+          "winrate": 0.50794
         },
         "3": {
-          "winCount": 149,
-          "matchCount": 308,
-          "winrate": 0.48377
+          "winCount": 163,
+          "matchCount": 343,
+          "winrate": 0.47522
         },
         "4": {
-          "winCount": 36,
-          "matchCount": 115,
-          "winrate": 0.31304
+          "winCount": 46,
+          "matchCount": 127,
+          "winrate": 0.3622
         },
         "5": {
-          "winCount": 61,
-          "matchCount": 156,
-          "winrate": 0.39103
+          "winCount": 80,
+          "matchCount": 172,
+          "winrate": 0.46512
         }
       }
     },
     "2": {
-      "winCount": 9506,
-      "matchCount": 19248,
-      "winrate": 0.49387,
+      "winCount": 10063,
+      "matchCount": 19932,
+      "winrate": 0.50487,
       "positions": {
         "1": {
-          "winCount": 42,
-          "matchCount": 118,
-          "winrate": 0.35593
+          "winCount": 55,
+          "matchCount": 129,
+          "winrate": 0.42636
         },
         "2": {
-          "winCount": 149,
-          "matchCount": 300,
-          "winrate": 0.49667
+          "winCount": 167,
+          "matchCount": 330,
+          "winrate": 0.50606
         },
         "3": {
-          "winCount": 8765,
-          "matchCount": 17588,
-          "winrate": 0.49835
+          "winCount": 9379,
+          "matchCount": 18462,
+          "winrate": 0.50802
         },
         "4": {
-          "winCount": 259,
-          "matchCount": 589,
-          "winrate": 0.43973
+          "winCount": 267,
+          "matchCount": 587,
+          "winrate": 0.45486
         },
         "5": {
-          "winCount": 172,
-          "matchCount": 383,
-          "winrate": 0.44909
+          "winCount": 165,
+          "matchCount": 370,
+          "winrate": 0.44595
         }
       }
     },
     "3": {
-      "winCount": 2638,
-      "matchCount": 5291,
-      "winrate": 0.49858,
+      "winCount": 2790,
+      "matchCount": 5584,
+      "winrate": 0.49964,
       "positions": {
         "1": {
-          "winCount": 9,
-          "matchCount": 16,
-          "winrate": 0.5625
+          "winCount": 5,
+          "matchCount": 17,
+          "winrate": 0.29412
         },
         "2": {
-          "winCount": 99,
-          "matchCount": 224,
-          "winrate": 0.44196
+          "winCount": 107,
+          "matchCount": 226,
+          "winrate": 0.47345
         },
         "3": {
-          "winCount": 27,
-          "matchCount": 57,
-          "winrate": 0.47368
+          "winCount": 24,
+          "matchCount": 52,
+          "winrate": 0.46154
         },
         "4": {
-          "winCount": 888,
-          "matchCount": 1721,
-          "winrate": 0.51598
+          "winCount": 932,
+          "matchCount": 1815,
+          "winrate": 0.5135
         },
         "5": {
-          "winCount": 1572,
-          "matchCount": 3175,
-          "winrate": 0.49512
+          "winCount": 1715,
+          "matchCount": 3462,
+          "winrate": 0.49538
         }
       }
     },
     "4": {
-      "winCount": 1308,
-      "matchCount": 2560,
-      "winrate": 0.51094,
+      "winCount": 1344,
+      "matchCount": 2671,
+      "winrate": 0.50318,
       "positions": {
         "1": {
-          "winCount": 893,
-          "matchCount": 1732,
-          "winrate": 0.51559
+          "winCount": 959,
+          "matchCount": 1859,
+          "winrate": 0.51587
         },
         "2": {
-          "winCount": 166,
-          "matchCount": 317,
-          "winrate": 0.52366
+          "winCount": 157,
+          "matchCount": 319,
+          "winrate": 0.49216
         },
         "3": {
-          "winCount": 173,
-          "matchCount": 329,
-          "winrate": 0.52584
+          "winCount": 168,
+          "matchCount": 342,
+          "winrate": 0.49123
         },
         "4": {
-          "winCount": 22,
-          "matchCount": 63,
-          "winrate": 0.34921
+          "winCount": 29,
+          "matchCount": 87,
+          "winrate": 0.33333
         },
         "5": {
-          "winCount": 23,
-          "matchCount": 60,
-          "winrate": 0.38333
+          "winCount": 25,
+          "matchCount": 56,
+          "winrate": 0.44643
         }
       }
     },
     "5": {
-      "winCount": 6628,
-      "matchCount": 12754,
-      "winrate": 0.51968,
+      "winCount": 6882,
+      "matchCount": 13230,
+      "winrate": 0.52018,
       "positions": {
         "1": {
-          "winCount": 20,
-          "matchCount": 38,
-          "winrate": 0.52632
+          "winCount": 22,
+          "matchCount": 49,
+          "winrate": 0.44898
         },
         "2": {
-          "winCount": 127,
-          "matchCount": 254,
-          "winrate": 0.5
+          "winCount": 135,
+          "matchCount": 266,
+          "winrate": 0.50752
         },
         "3": {
-          "winCount": 24,
-          "matchCount": 67,
-          "winrate": 0.35821
+          "winCount": 41,
+          "matchCount": 77,
+          "winrate": 0.53247
         },
         "4": {
-          "winCount": 1445,
-          "matchCount": 2794,
-          "winrate": 0.51718
+          "winCount": 1504,
+          "matchCount": 2949,
+          "winrate": 0.51
         },
         "5": {
-          "winCount": 4875,
-          "matchCount": 9346,
-          "winrate": 0.52161
+          "winCount": 5156,
+          "matchCount": 9837,
+          "winrate": 0.52414
         }
       }
     },
     "6": {
-      "winCount": 5037,
-      "matchCount": 10667,
-      "winrate": 0.4722,
+      "winCount": 4969,
+      "matchCount": 10659,
+      "winrate": 0.46618,
       "positions": {
         "1": {
-          "winCount": 4565,
-          "matchCount": 9675,
-          "winrate": 0.47183
+          "winCount": 4551,
+          "matchCount": 9804,
+          "winrate": 0.4642
         },
         "2": {
-          "winCount": 194,
-          "matchCount": 377,
-          "winrate": 0.51459
+          "winCount": 185,
+          "matchCount": 387,
+          "winrate": 0.47804
         },
         "3": {
-          "winCount": 65,
-          "matchCount": 154,
-          "winrate": 0.42208
+          "winCount": 91,
+          "matchCount": 176,
+          "winrate": 0.51705
         },
         "4": {
-          "winCount": 35,
-          "matchCount": 74,
-          "winrate": 0.47297
+          "winCount": 51,
+          "matchCount": 105,
+          "winrate": 0.48571
         },
         "5": {
-          "winCount": 57,
-          "matchCount": 135,
-          "winrate": 0.42222
+          "winCount": 71,
+          "matchCount": 143,
+          "winrate": 0.4965
         }
       }
     },
     "7": {
-      "winCount": 9426,
-      "matchCount": 18463,
-      "winrate": 0.51053,
+      "winCount": 9872,
+      "matchCount": 19330,
+      "winrate": 0.51071,
       "positions": {
         "1": {
-          "winCount": 84,
-          "matchCount": 179,
-          "winrate": 0.46927
+          "winCount": 87,
+          "matchCount": 187,
+          "winrate": 0.46524
         },
         "2": {
-          "winCount": 3125,
-          "matchCount": 6086,
-          "winrate": 0.51347
+          "winCount": 3422,
+          "matchCount": 6566,
+          "winrate": 0.52117
         },
         "3": {
-          "winCount": 3456,
-          "matchCount": 6886,
-          "winrate": 0.50189
+          "winCount": 3583,
+          "matchCount": 7205,
+          "winrate": 0.49729
         },
         "4": {
-          "winCount": 1927,
-          "matchCount": 3692,
-          "winrate": 0.52194
+          "winCount": 2080,
+          "matchCount": 3996,
+          "winrate": 0.52052
         },
         "5": {
-          "winCount": 666,
-          "matchCount": 1291,
-          "winrate": 0.51588
+          "winCount": 667,
+          "matchCount": 1315,
+          "winrate": 0.50722
         }
       }
     },
     "8": {
-      "winCount": 8993,
-      "matchCount": 17003,
-      "winrate": 0.52891,
+      "winCount": 9646,
+      "matchCount": 18032,
+      "winrate": 0.53494,
       "positions": {
         "1": {
-          "winCount": 8507,
-          "matchCount": 15958,
-          "winrate": 0.53309
+          "winCount": 9242,
+          "matchCount": 17172,
+          "winrate": 0.5382
         },
         "2": {
-          "winCount": 96,
-          "matchCount": 223,
-          "winrate": 0.43049
+          "winCount": 102,
+          "matchCount": 243,
+          "winrate": 0.41975
         },
         "3": {
-          "winCount": 138,
-          "matchCount": 282,
-          "winrate": 0.48936
+          "winCount": 151,
+          "matchCount": 310,
+          "winrate": 0.4871
         },
         "4": {
-          "winCount": 43,
-          "matchCount": 95,
-          "winrate": 0.45263
+          "winCount": 47,
+          "matchCount": 113,
+          "winrate": 0.41593
         },
         "5": {
-          "winCount": 54,
-          "matchCount": 123,
-          "winrate": 0.43902
+          "winCount": 69,
+          "matchCount": 134,
+          "winrate": 0.51493
         }
       }
     },
     "9": {
-      "winCount": 7532,
-      "matchCount": 14633,
-      "winrate": 0.51473,
+      "winCount": 7501,
+      "matchCount": 14741,
+      "winrate": 0.50885,
       "positions": {
         "1": {
-          "winCount": 143,
-          "matchCount": 319,
-          "winrate": 0.44828
+          "winCount": 162,
+          "matchCount": 344,
+          "winrate": 0.47093
         },
         "2": {
-          "winCount": 376,
-          "matchCount": 777,
-          "winrate": 0.48391
+          "winCount": 367,
+          "matchCount": 794,
+          "winrate": 0.46222
         },
         "3": {
-          "winCount": 221,
-          "matchCount": 458,
-          "winrate": 0.48253
+          "winCount": 208,
+          "matchCount": 453,
+          "winrate": 0.45916
         },
         "4": {
-          "winCount": 4311,
-          "matchCount": 8235,
-          "winrate": 0.5235
+          "winCount": 4383,
+          "matchCount": 8474,
+          "winrate": 0.51723
         },
         "5": {
-          "winCount": 2329,
-          "matchCount": 4536,
-          "winrate": 0.51345
+          "winCount": 2357,
+          "matchCount": 4623,
+          "winrate": 0.50984
         }
       }
     },
     "10": {
-      "winCount": 2981,
-      "matchCount": 6247,
-      "winrate": 0.47719,
+      "winCount": 3356,
+      "matchCount": 6906,
+      "winrate": 0.48595,
       "positions": {
         "1": {
-          "winCount": 2663,
-          "matchCount": 5537,
-          "winrate": 0.48095
+          "winCount": 3053,
+          "matchCount": 6277,
+          "winrate": 0.48638
         },
         "2": {
-          "winCount": 170,
-          "matchCount": 364,
-          "winrate": 0.46703
+          "winCount": 189,
+          "matchCount": 368,
+          "winrate": 0.51359
         },
         "3": {
-          "winCount": 38,
-          "matchCount": 92,
-          "winrate": 0.41304
+          "winCount": 44,
+          "matchCount": 102,
+          "winrate": 0.43137
         },
         "4": {
-          "winCount": 24,
+          "winCount": 26,
           "matchCount": 54,
-          "winrate": 0.44444
+          "winrate": 0.48148
         },
         "5": {
-          "winCount": 33,
-          "matchCount": 82,
-          "winrate": 0.40244
+          "winCount": 37,
+          "matchCount": 92,
+          "winrate": 0.40217
         }
       }
     },
     "11": {
-      "winCount": 11796,
-      "matchCount": 26547,
-      "winrate": 0.44434,
+      "winCount": 9722,
+      "matchCount": 23459,
+      "winrate": 0.41443,
       "positions": {
         "1": {
-          "winCount": 6334,
-          "matchCount": 14256,
-          "winrate": 0.4443
+          "winCount": 4667,
+          "matchCount": 11428,
+          "winrate": 0.40838
         },
         "2": {
-          "winCount": 4722,
-          "matchCount": 10545,
-          "winrate": 0.4478
+          "winCount": 4512,
+          "matchCount": 10646,
+          "winrate": 0.42382
         },
         "3": {
-          "winCount": 251,
-          "matchCount": 584,
-          "winrate": 0.42979
+          "winCount": 229,
+          "matchCount": 576,
+          "winrate": 0.39757
         },
         "4": {
-          "winCount": 161,
-          "matchCount": 395,
-          "winrate": 0.40759
+          "winCount": 169,
+          "matchCount": 439,
+          "winrate": 0.38497
         },
         "5": {
-          "winCount": 105,
-          "matchCount": 291,
-          "winrate": 0.36082
+          "winCount": 103,
+          "matchCount": 285,
+          "winrate": 0.3614
         }
       }
     },
     "12": {
-      "winCount": 8911,
-      "matchCount": 16179,
-      "winrate": 0.55078,
+      "winCount": 9599,
+      "matchCount": 17210,
+      "winrate": 0.55776,
       "positions": {
         "1": {
-          "winCount": 8550,
-          "matchCount": 15524,
-          "winrate": 0.55076
+          "winCount": 9313,
+          "matchCount": 16650,
+          "winrate": 0.55934
         },
         "2": {
-          "winCount": 82,
-          "matchCount": 151,
-          "winrate": 0.54305
+          "winCount": 94,
+          "matchCount": 175,
+          "winrate": 0.53714
         },
         "3": {
-          "winCount": 113,
-          "matchCount": 188,
-          "winrate": 0.60106
+          "winCount": 107,
+          "matchCount": 203,
+          "winrate": 0.52709
         },
         "4": {
-          "winCount": 22,
-          "matchCount": 34,
-          "winrate": 0.64706
+          "winCount": 20,
+          "matchCount": 39,
+          "winrate": 0.51282
         },
         "5": {
-          "winCount": 37,
-          "matchCount": 90,
-          "winrate": 0.41111
+          "winCount": 38,
+          "matchCount": 99,
+          "winrate": 0.38384
         }
       }
     },
     "13": {
-      "winCount": 1755,
-      "matchCount": 3650,
-      "winrate": 0.48082,
+      "winCount": 1767,
+      "matchCount": 3751,
+      "winrate": 0.47107,
       "positions": {
         "1": {
-          "winCount": 23,
-          "matchCount": 45,
-          "winrate": 0.51111
+          "winCount": 21,
+          "matchCount": 41,
+          "winrate": 0.5122
         },
         "2": {
-          "winCount": 1588,
-          "matchCount": 3275,
-          "winrate": 0.48489
+          "winCount": 1631,
+          "matchCount": 3437,
+          "winrate": 0.47454
         },
         "3": {
-          "winCount": 34,
-          "matchCount": 81,
-          "winrate": 0.41975
+          "winCount": 29,
+          "matchCount": 72,
+          "winrate": 0.40278
         },
         "4": {
-          "winCount": 42,
-          "matchCount": 108,
-          "winrate": 0.38889
+          "winCount": 49,
+          "matchCount": 127,
+          "winrate": 0.38583
         },
         "5": {
-          "winCount": 32,
-          "matchCount": 67,
-          "winrate": 0.47761
+          "winCount": 31,
+          "matchCount": 66,
+          "winrate": 0.4697
         }
       }
     },
     "14": {
-      "winCount": 16733,
-      "matchCount": 33204,
-      "winrate": 0.50395,
+      "winCount": 17155,
+      "matchCount": 33959,
+      "winrate": 0.50517,
       "positions": {
         "1": {
-          "winCount": 347,
-          "matchCount": 724,
-          "winrate": 0.47928
+          "winCount": 404,
+          "matchCount": 815,
+          "winrate": 0.49571
         },
         "2": {
-          "winCount": 2097,
-          "matchCount": 3993,
-          "winrate": 0.52517
+          "winCount": 2188,
+          "matchCount": 4081,
+          "winrate": 0.53614
         },
         "3": {
-          "winCount": 4094,
-          "matchCount": 7813,
-          "winrate": 0.524
+          "winCount": 4313,
+          "matchCount": 8217,
+          "winrate": 0.52489
         },
         "4": {
-          "winCount": 5610,
-          "matchCount": 11233,
-          "winrate": 0.49942
+          "winCount": 5828,
+          "matchCount": 11671,
+          "winrate": 0.49936
         },
         "5": {
-          "winCount": 4228,
-          "matchCount": 8725,
-          "winrate": 0.48458
+          "winCount": 4361,
+          "matchCount": 9053,
+          "winrate": 0.48172
         }
       }
     },
     "15": {
-      "winCount": 2602,
-      "matchCount": 5117,
-      "winrate": 0.5085,
+      "winCount": 2705,
+      "matchCount": 5371,
+      "winrate": 0.50363,
       "positions": {
         "1": {
-          "winCount": 468,
-          "matchCount": 929,
-          "winrate": 0.50377
+          "winCount": 492,
+          "matchCount": 988,
+          "winrate": 0.49798
         },
         "2": {
-          "winCount": 453,
-          "matchCount": 856,
-          "winrate": 0.52921
+          "winCount": 458,
+          "matchCount": 895,
+          "winrate": 0.51173
         },
         "3": {
-          "winCount": 1456,
-          "matchCount": 2867,
-          "winrate": 0.50785
+          "winCount": 1549,
+          "matchCount": 3092,
+          "winrate": 0.50097
         },
         "4": {
-          "winCount": 103,
-          "matchCount": 201,
-          "winrate": 0.51244
+          "winCount": 120,
+          "matchCount": 214,
+          "winrate": 0.56075
         },
         "5": {
-          "winCount": 67,
-          "matchCount": 152,
-          "winrate": 0.44079
+          "winCount": 74,
+          "matchCount": 163,
+          "winrate": 0.45399
         }
       }
     },
     "16": {
-      "winCount": 2077,
-      "matchCount": 4147,
-      "winrate": 0.50084,
+      "winCount": 2081,
+      "matchCount": 4201,
+      "winrate": 0.49536,
       "positions": {
         "1": {
-          "winCount": 19,
-          "matchCount": 43,
-          "winrate": 0.44186
+          "winCount": 23,
+          "matchCount": 44,
+          "winrate": 0.52273
         },
         "2": {
-          "winCount": 557,
-          "matchCount": 1046,
-          "winrate": 0.5325
+          "winCount": 558,
+          "matchCount": 1081,
+          "winrate": 0.51619
         },
         "3": {
-          "winCount": 1309,
-          "matchCount": 2675,
-          "winrate": 0.48935
+          "winCount": 1345,
+          "matchCount": 2755,
+          "winrate": 0.4882
         },
         "4": {
-          "winCount": 102,
-          "matchCount": 209,
-          "winrate": 0.48804
+          "winCount": 95,
+          "matchCount": 210,
+          "winrate": 0.45238
         },
         "5": {
-          "winCount": 45,
-          "matchCount": 86,
-          "winrate": 0.52326
+          "winCount": 46,
+          "matchCount": 90,
+          "winrate": 0.51111
         }
       }
     },
     "17": {
-      "winCount": 3000,
-      "matchCount": 6469,
-      "winrate": 0.46375,
+      "winCount": 3191,
+      "matchCount": 6747,
+      "winrate": 0.47295,
       "positions": {
         "1": {
-          "winCount": 72,
-          "matchCount": 173,
-          "winrate": 0.41618
+          "winCount": 65,
+          "matchCount": 160,
+          "winrate": 0.40625
         },
         "2": {
-          "winCount": 2744,
-          "matchCount": 5898,
-          "winrate": 0.46524
+          "winCount": 2967,
+          "matchCount": 6243,
+          "winrate": 0.47525
         },
         "3": {
-          "winCount": 55,
-          "matchCount": 112,
-          "winrate": 0.49107
+          "winCount": 51,
+          "matchCount": 113,
+          "winrate": 0.45133
         },
         "4": {
-          "winCount": 51,
-          "matchCount": 101,
-          "winrate": 0.50495
+          "winCount": 56,
+          "matchCount": 122,
+          "winrate": 0.45902
         },
         "5": {
-          "winCount": 29,
-          "matchCount": 78,
-          "winrate": 0.37179
+          "winCount": 39,
+          "matchCount": 86,
+          "winrate": 0.45349
         }
       }
     },
     "18": {
-      "winCount": 4280,
-      "matchCount": 8522,
-      "winrate": 0.50223,
+      "winCount": 4486,
+      "matchCount": 8874,
+      "winrate": 0.50552,
       "positions": {
         "1": {
-          "winCount": 3818,
-          "matchCount": 7559,
-          "winrate": 0.50509
+          "winCount": 4081,
+          "matchCount": 8028,
+          "winrate": 0.50835
         },
         "2": {
-          "winCount": 62,
-          "matchCount": 125,
-          "winrate": 0.496
+          "winCount": 56,
+          "matchCount": 104,
+          "winrate": 0.53846
         },
         "3": {
-          "winCount": 226,
-          "matchCount": 461,
-          "winrate": 0.49024
+          "winCount": 229,
+          "matchCount": 472,
+          "winrate": 0.48517
         },
         "4": {
-          "winCount": 50,
-          "matchCount": 113,
-          "winrate": 0.44248
+          "winCount": 65,
+          "matchCount": 132,
+          "winrate": 0.49242
         },
         "5": {
-          "winCount": 43,
-          "matchCount": 108,
-          "winrate": 0.39815
+          "winCount": 42,
+          "matchCount": 105,
+          "winrate": 0.4
         }
       }
     },
     "19": {
-      "winCount": 2074,
-      "matchCount": 4787,
-      "winrate": 0.43326,
+      "winCount": 2005,
+      "matchCount": 4620,
+      "winrate": 0.43398,
       "positions": {
         "1": {
-          "winCount": 595,
-          "matchCount": 1424,
-          "winrate": 0.41784
+          "winCount": 551,
+          "matchCount": 1305,
+          "winrate": 0.42222
         },
         "2": {
-          "winCount": 391,
-          "matchCount": 847,
-          "winrate": 0.46163
+          "winCount": 401,
+          "matchCount": 852,
+          "winrate": 0.47066
         },
         "3": {
-          "winCount": 525,
-          "matchCount": 1243,
-          "winrate": 0.42237
+          "winCount": 501,
+          "matchCount": 1249,
+          "winrate": 0.40112
         },
         "4": {
-          "winCount": 358,
-          "matchCount": 837,
-          "winrate": 0.42772
+          "winCount": 387,
+          "matchCount": 856,
+          "winrate": 0.4521
         },
         "5": {
-          "winCount": 148,
-          "matchCount": 306,
-          "winrate": 0.48366
+          "winCount": 159,
+          "matchCount": 338,
+          "winrate": 0.47041
         }
       }
     },
     "20": {
-      "winCount": 7303,
-      "matchCount": 13435,
-      "winrate": 0.54358,
+      "winCount": 7388,
+      "matchCount": 13849,
+      "winrate": 0.53347,
       "positions": {
         "1": {
-          "winCount": 1477,
-          "matchCount": 2697,
-          "winrate": 0.54765
+          "winCount": 1506,
+          "matchCount": 2789,
+          "winrate": 0.53998
         },
         "2": {
-          "winCount": 540,
-          "matchCount": 940,
-          "winrate": 0.57447
+          "winCount": 542,
+          "matchCount": 945,
+          "winrate": 0.57354
         },
         "3": {
-          "winCount": 708,
-          "matchCount": 1359,
-          "winrate": 0.52097
+          "winCount": 763,
+          "matchCount": 1438,
+          "winrate": 0.5306
         },
         "4": {
-          "winCount": 1984,
-          "matchCount": 3675,
-          "winrate": 0.53986
+          "winCount": 2003,
+          "matchCount": 3806,
+          "winrate": 0.52627
         },
         "5": {
-          "winCount": 2448,
-          "matchCount": 4492,
-          "winrate": 0.54497
+          "winCount": 2538,
+          "matchCount": 4809,
+          "winrate": 0.52776
         }
       }
     },
     "21": {
-      "winCount": 9223,
-      "matchCount": 19016,
-      "winrate": 0.48501,
+      "winCount": 9269,
+      "matchCount": 19120,
+      "winrate": 0.48478,
       "positions": {
         "1": {
-          "winCount": 1511,
-          "matchCount": 3080,
-          "winrate": 0.49058
+          "winCount": 1437,
+          "matchCount": 3023,
+          "winrate": 0.47536
         },
         "2": {
-          "winCount": 2208,
-          "matchCount": 4436,
-          "winrate": 0.49775
+          "winCount": 2278,
+          "matchCount": 4523,
+          "winrate": 0.50365
         },
         "3": {
-          "winCount": 1352,
-          "matchCount": 2675,
-          "winrate": 0.50542
+          "winCount": 1375,
+          "matchCount": 2745,
+          "winrate": 0.50091
         },
         "4": {
-          "winCount": 2919,
-          "matchCount": 6201,
-          "winrate": 0.47073
+          "winCount": 3054,
+          "matchCount": 6435,
+          "winrate": 0.47459
         },
         "5": {
-          "winCount": 1050,
-          "matchCount": 2238,
-          "winrate": 0.46917
+          "winCount": 1084,
+          "matchCount": 2324,
+          "winrate": 0.46644
         }
       }
     },
     "22": {
-      "winCount": 7177,
-      "matchCount": 14178,
-      "winrate": 0.50621,
+      "winCount": 7286,
+      "matchCount": 14364,
+      "winrate": 0.50724,
       "positions": {
         "1": {
-          "winCount": 52,
-          "matchCount": 146,
-          "winrate": 0.35616
+          "winCount": 51,
+          "matchCount": 134,
+          "winrate": 0.3806
         },
         "2": {
-          "winCount": 2208,
-          "matchCount": 4492,
-          "winrate": 0.49154
+          "winCount": 2248,
+          "matchCount": 4558,
+          "winrate": 0.4932
         },
         "3": {
-          "winCount": 154,
-          "matchCount": 330,
-          "winrate": 0.46667
+          "winCount": 160,
+          "matchCount": 354,
+          "winrate": 0.45198
         },
         "4": {
-          "winCount": 3199,
-          "matchCount": 6137,
-          "winrate": 0.52126
+          "winCount": 3304,
+          "matchCount": 6336,
+          "winrate": 0.52146
         },
         "5": {
-          "winCount": 1409,
-          "matchCount": 2759,
-          "winrate": 0.51069
+          "winCount": 1495,
+          "matchCount": 2925,
+          "winrate": 0.51111
         }
       }
     },
     "23": {
-      "winCount": 2411,
-      "matchCount": 4843,
-      "winrate": 0.49783,
+      "winCount": 2586,
+      "matchCount": 5154,
+      "winrate": 0.50175,
       "positions": {
         "1": {
-          "winCount": 36,
-          "matchCount": 91,
-          "winrate": 0.3956
+          "winCount": 35,
+          "matchCount": 102,
+          "winrate": 0.34314
         },
         "2": {
-          "winCount": 733,
-          "matchCount": 1461,
-          "winrate": 0.50171
+          "winCount": 779,
+          "matchCount": 1521,
+          "winrate": 0.51216
         },
         "3": {
-          "winCount": 1443,
-          "matchCount": 2873,
-          "winrate": 0.50226
+          "winCount": 1577,
+          "matchCount": 3142,
+          "winrate": 0.50191
         },
         "4": {
-          "winCount": 106,
-          "matchCount": 227,
-          "winrate": 0.46696
+          "winCount": 128,
+          "matchCount": 253,
+          "winrate": 0.50593
         },
         "5": {
-          "winCount": 45,
-          "matchCount": 95,
-          "winrate": 0.47368
+          "winCount": 60,
+          "matchCount": 119,
+          "winrate": 0.5042
         }
       }
     },
     "25": {
-      "winCount": 11648,
-      "matchCount": 24042,
-      "winrate": 0.48449,
+      "winCount": 11284,
+      "matchCount": 23626,
+      "winrate": 0.47761,
       "positions": {
         "1": {
-          "winCount": 727,
-          "matchCount": 1664,
-          "winrate": 0.4369
+          "winCount": 647,
+          "matchCount": 1598,
+          "winrate": 0.40488
         },
         "2": {
-          "winCount": 8873,
-          "matchCount": 18005,
-          "winrate": 0.49281
+          "winCount": 8672,
+          "matchCount": 17749,
+          "winrate": 0.48859
         },
         "3": {
-          "winCount": 224,
-          "matchCount": 488,
-          "winrate": 0.45902
+          "winCount": 254,
+          "matchCount": 566,
+          "winrate": 0.44876
         },
         "4": {
-          "winCount": 1052,
-          "matchCount": 2281,
-          "winrate": 0.4612
+          "winCount": 1071,
+          "matchCount": 2363,
+          "winrate": 0.45324
         },
         "5": {
-          "winCount": 578,
-          "matchCount": 1235,
-          "winrate": 0.46802
+          "winCount": 599,
+          "matchCount": 1276,
+          "winrate": 0.46944
         }
       }
     },
     "26": {
-      "winCount": 13573,
-      "matchCount": 27869,
-      "winrate": 0.48703,
+      "winCount": 14066,
+      "matchCount": 28632,
+      "winrate": 0.49127,
       "positions": {
         "1": {
-          "winCount": 68,
-          "matchCount": 187,
-          "winrate": 0.36364
+          "winCount": 77,
+          "matchCount": 206,
+          "winrate": 0.37379
         },
         "2": {
-          "winCount": 1845,
-          "matchCount": 3719,
-          "winrate": 0.4961
+          "winCount": 2013,
+          "matchCount": 3956,
+          "winrate": 0.50885
         },
         "3": {
-          "winCount": 164,
-          "matchCount": 348,
-          "winrate": 0.47126
+          "winCount": 156,
+          "matchCount": 333,
+          "winrate": 0.46847
         },
         "4": {
-          "winCount": 4036,
-          "matchCount": 8323,
-          "winrate": 0.48492
+          "winCount": 4342,
+          "matchCount": 8717,
+          "winrate": 0.49811
         },
         "5": {
-          "winCount": 7257,
-          "matchCount": 14839,
-          "winrate": 0.48905
+          "winCount": 7434,
+          "matchCount": 15334,
+          "winrate": 0.48481
         }
       }
     },
     "27": {
-      "winCount": 7142,
-      "matchCount": 13594,
-      "winrate": 0.52538,
+      "winCount": 7334,
+      "matchCount": 14045,
+      "winrate": 0.52218,
       "positions": {
         "1": {
-          "winCount": 9,
-          "matchCount": 33,
-          "winrate": 0.27273
+          "winCount": 13,
+          "matchCount": 50,
+          "winrate": 0.26
         },
         "2": {
-          "winCount": 45,
-          "matchCount": 92,
-          "winrate": 0.48913
+          "winCount": 44,
+          "matchCount": 86,
+          "winrate": 0.51163
         },
         "3": {
-          "winCount": 29,
-          "matchCount": 73,
-          "winrate": 0.39726
+          "winCount": 33,
+          "matchCount": 76,
+          "winrate": 0.43421
         },
         "4": {
-          "winCount": 1798,
-          "matchCount": 3432,
-          "winrate": 0.52389
+          "winCount": 1820,
+          "matchCount": 3546,
+          "winrate": 0.51325
         },
         "5": {
-          "winCount": 5135,
-          "matchCount": 9746,
-          "winrate": 0.52688
+          "winCount": 5400,
+          "matchCount": 10240,
+          "winrate": 0.52734
         }
       }
     },
     "28": {
-      "winCount": 4034,
-      "matchCount": 8111,
-      "winrate": 0.49735,
+      "winCount": 3973,
+      "matchCount": 8106,
+      "winrate": 0.49013,
       "positions": {
         "1": {
-          "winCount": 59,
-          "matchCount": 140,
-          "winrate": 0.42143
+          "winCount": 71,
+          "matchCount": 145,
+          "winrate": 0.48966
         },
         "2": {
-          "winCount": 380,
-          "matchCount": 743,
-          "winrate": 0.51144
+          "winCount": 384,
+          "matchCount": 717,
+          "winrate": 0.53556
         },
         "3": {
-          "winCount": 3437,
-          "matchCount": 6866,
-          "winrate": 0.50058
+          "winCount": 3391,
+          "matchCount": 6971,
+          "winrate": 0.48644
         },
         "4": {
-          "winCount": 64,
-          "matchCount": 163,
-          "winrate": 0.39264
+          "winCount": 79,
+          "matchCount": 165,
+          "winrate": 0.47879
         },
         "5": {
-          "winCount": 29,
-          "matchCount": 67,
-          "winrate": 0.43284
+          "winCount": 27,
+          "matchCount": 64,
+          "winrate": 0.42188
         }
       }
     },
     "29": {
-      "winCount": 4106,
-      "matchCount": 8126,
-      "winrate": 0.50529,
+      "winCount": 4255,
+      "matchCount": 8367,
+      "winrate": 0.50855,
       "positions": {
         "1": {
-          "winCount": 48,
-          "matchCount": 99,
-          "winrate": 0.48485
+          "winCount": 55,
+          "matchCount": 113,
+          "winrate": 0.48673
         },
         "2": {
-          "winCount": 51,
-          "matchCount": 123,
-          "winrate": 0.41463
+          "winCount": 58,
+          "matchCount": 136,
+          "winrate": 0.42647
         },
         "3": {
-          "winCount": 3773,
-          "matchCount": 7454,
-          "winrate": 0.50617
+          "winCount": 3964,
+          "matchCount": 7732,
+          "winrate": 0.51267
         },
         "4": {
-          "winCount": 113,
-          "matchCount": 221,
-          "winrate": 0.51131
+          "winCount": 105,
+          "matchCount": 240,
+          "winrate": 0.4375
         },
         "5": {
-          "winCount": 54,
-          "matchCount": 101,
-          "winrate": 0.53465
+          "winCount": 57,
+          "matchCount": 115,
+          "winrate": 0.49565
         }
       }
     },
     "30": {
-      "winCount": 8830,
-      "matchCount": 16884,
-      "winrate": 0.52298,
+      "winCount": 9073,
+      "matchCount": 17449,
+      "winrate": 0.51997,
       "positions": {
         "1": {
-          "winCount": 11,
+          "winCount": 4,
           "matchCount": 29,
-          "winrate": 0.37931
+          "winrate": 0.13793
         },
         "2": {
-          "winCount": 79,
-          "matchCount": 157,
-          "winrate": 0.50318
+          "winCount": 84,
+          "matchCount": 167,
+          "winrate": 0.50299
         },
         "3": {
-          "winCount": 43,
-          "matchCount": 68,
-          "winrate": 0.63235
+          "winCount": 24,
+          "matchCount": 49,
+          "winrate": 0.4898
         },
         "4": {
-          "winCount": 2610,
-          "matchCount": 4979,
-          "winrate": 0.5242
+          "winCount": 2696,
+          "matchCount": 5196,
+          "winrate": 0.51886
         },
         "5": {
-          "winCount": 5972,
-          "matchCount": 11413,
-          "winrate": 0.52326
+          "winCount": 6234,
+          "matchCount": 11955,
+          "winrate": 0.52146
         }
       }
     },
     "31": {
-      "winCount": 6689,
-      "matchCount": 12721,
-      "winrate": 0.52582,
+      "winCount": 7002,
+      "matchCount": 13202,
+      "winrate": 0.53037,
       "positions": {
         "1": {
-          "winCount": 12,
-          "matchCount": 28,
-          "winrate": 0.42857
+          "winCount": 11,
+          "matchCount": 31,
+          "winrate": 0.35484
         },
         "2": {
-          "winCount": 37,
-          "matchCount": 86,
-          "winrate": 0.43023
+          "winCount": 42,
+          "matchCount": 95,
+          "winrate": 0.44211
         },
         "3": {
           "winCount": 29,
-          "matchCount": 63,
-          "winrate": 0.46032
+          "matchCount": 54,
+          "winrate": 0.53704
         },
         "4": {
-          "winCount": 1912,
-          "matchCount": 3630,
-          "winrate": 0.52672
+          "winCount": 2010,
+          "matchCount": 3774,
+          "winrate": 0.53259
         },
         "5": {
-          "winCount": 4588,
-          "matchCount": 8710,
-          "winrate": 0.52675
+          "winCount": 4894,
+          "matchCount": 9220,
+          "winrate": 0.5308
         }
       }
     },
     "32": {
-      "winCount": 2336,
-      "matchCount": 4470,
-      "winrate": 0.5226,
+      "winCount": 2425,
+      "matchCount": 4586,
+      "winrate": 0.52878,
       "positions": {
         "1": {
-          "winCount": 850,
-          "matchCount": 1692,
-          "winrate": 0.50236
+          "winCount": 910,
+          "matchCount": 1782,
+          "winrate": 0.51066
         },
         "2": {
-          "winCount": 788,
-          "matchCount": 1437,
-          "winrate": 0.54836
+          "winCount": 839,
+          "matchCount": 1507,
+          "winrate": 0.55674
         },
         "3": {
-          "winCount": 271,
-          "matchCount": 495,
-          "winrate": 0.54747
+          "winCount": 281,
+          "matchCount": 489,
+          "winrate": 0.57464
         },
         "4": {
-          "winCount": 268,
-          "matchCount": 533,
-          "winrate": 0.50281
+          "winCount": 273,
+          "matchCount": 552,
+          "winrate": 0.49457
         },
         "5": {
-          "winCount": 107,
-          "matchCount": 212,
-          "winrate": 0.50472
+          "winCount": 112,
+          "matchCount": 239,
+          "winrate": 0.46862
         }
       }
     },
     "33": {
-      "winCount": 2613,
-      "matchCount": 5124,
-      "winrate": 0.50995,
+      "winCount": 2640,
+      "matchCount": 5182,
+      "winrate": 0.50946,
       "positions": {
         "1": {
-          "winCount": 28,
-          "matchCount": 66,
-          "winrate": 0.42424
+          "winCount": 25,
+          "matchCount": 63,
+          "winrate": 0.39683
         },
         "2": {
           "winCount": 88,
-          "matchCount": 176,
-          "winrate": 0.5
+          "matchCount": 178,
+          "winrate": 0.49438
         },
         "3": {
-          "winCount": 1218,
-          "matchCount": 2364,
-          "winrate": 0.51523
+          "winCount": 1244,
+          "matchCount": 2390,
+          "winrate": 0.5205
         },
         "4": {
-          "winCount": 865,
-          "matchCount": 1655,
-          "winrate": 0.52266
+          "winCount": 893,
+          "matchCount": 1736,
+          "winrate": 0.5144
         },
         "5": {
-          "winCount": 350,
-          "matchCount": 733,
-          "winrate": 0.47749
+          "winCount": 377,
+          "matchCount": 783,
+          "winrate": 0.48148
         }
       }
     },
     "34": {
-      "winCount": 3602,
-      "matchCount": 7384,
-      "winrate": 0.48781,
+      "winCount": 3875,
+      "matchCount": 7849,
+      "winrate": 0.49369,
       "positions": {
         "1": {
-          "winCount": 47,
-          "matchCount": 100,
-          "winrate": 0.47
+          "winCount": 52,
+          "matchCount": 107,
+          "winrate": 0.48598
         },
         "2": {
-          "winCount": 3224,
-          "matchCount": 6523,
-          "winrate": 0.49425
+          "winCount": 3520,
+          "matchCount": 7033,
+          "winrate": 0.5005
         },
         "3": {
-          "winCount": 70,
-          "matchCount": 151,
-          "winrate": 0.46358
+          "winCount": 73,
+          "matchCount": 147,
+          "winrate": 0.4966
         },
         "4": {
-          "winCount": 114,
-          "matchCount": 269,
-          "winrate": 0.42379
+          "winCount": 116,
+          "matchCount": 306,
+          "winrate": 0.37908
         },
         "5": {
-          "winCount": 94,
-          "matchCount": 225,
-          "winrate": 0.41778
+          "winCount": 103,
+          "matchCount": 235,
+          "winrate": 0.4383
         }
       }
     },
     "35": {
-      "winCount": 9803,
-      "matchCount": 19818,
-      "winrate": 0.49465,
+      "winCount": 10183,
+      "matchCount": 20638,
+      "winrate": 0.49341,
       "positions": {
         "1": {
-          "winCount": 1519,
-          "matchCount": 3144,
-          "winrate": 0.48314
+          "winCount": 1584,
+          "matchCount": 3285,
+          "winrate": 0.48219
         },
         "2": {
-          "winCount": 5321,
-          "matchCount": 10502,
-          "winrate": 0.50667
+          "winCount": 5620,
+          "matchCount": 11105,
+          "winrate": 0.50608
         },
         "3": {
-          "winCount": 466,
-          "matchCount": 972,
-          "winrate": 0.47942
+          "winCount": 519,
+          "matchCount": 1073,
+          "winrate": 0.48369
         },
         "4": {
-          "winCount": 1656,
-          "matchCount": 3502,
-          "winrate": 0.47287
+          "winCount": 1757,
+          "matchCount": 3733,
+          "winrate": 0.47067
         },
         "5": {
-          "winCount": 586,
-          "matchCount": 1212,
-          "winrate": 0.4835
+          "winCount": 657,
+          "matchCount": 1345,
+          "winrate": 0.48848
         }
       }
     },
     "36": {
-      "winCount": 8107,
-      "matchCount": 16073,
-      "winrate": 0.50439,
+      "winCount": 7968,
+      "matchCount": 15859,
+      "winrate": 0.50243,
       "positions": {
         "1": {
-          "winCount": 824,
-          "matchCount": 1529,
-          "winrate": 0.53891
+          "winCount": 801,
+          "matchCount": 1502,
+          "winrate": 0.53329
         },
         "2": {
-          "winCount": 3389,
-          "matchCount": 6801,
-          "winrate": 0.49831
+          "winCount": 3431,
+          "matchCount": 6938,
+          "winrate": 0.49452
         },
         "3": {
-          "winCount": 3528,
-          "matchCount": 6958,
-          "winrate": 0.50704
+          "winCount": 3493,
+          "matchCount": 6861,
+          "winrate": 0.50911
         },
         "4": {
-          "winCount": 149,
-          "matchCount": 344,
-          "winrate": 0.43314
+          "winCount": 153,
+          "matchCount": 342,
+          "winrate": 0.44737
         },
         "5": {
-          "winCount": 68,
-          "matchCount": 154,
-          "winrate": 0.44156
+          "winCount": 70,
+          "matchCount": 165,
+          "winrate": 0.42424
         }
       }
     },
     "37": {
-      "winCount": 3260,
-      "matchCount": 6547,
-      "winrate": 0.49794,
+      "winCount": 3546,
+      "matchCount": 7072,
+      "winrate": 0.50141,
       "positions": {
         "1": {
-          "winCount": 13,
-          "matchCount": 29,
-          "winrate": 0.44828
+          "winCount": 15,
+          "matchCount": 38,
+          "winrate": 0.39474
         },
         "2": {
-          "winCount": 28,
-          "matchCount": 63,
-          "winrate": 0.44444
+          "winCount": 32,
+          "matchCount": 82,
+          "winrate": 0.39024
         },
         "3": {
-          "winCount": 25,
-          "matchCount": 56,
-          "winrate": 0.44643
+          "winCount": 39,
+          "matchCount": 70,
+          "winrate": 0.55714
         },
         "4": {
-          "winCount": 919,
-          "matchCount": 1804,
-          "winrate": 0.50942
+          "winCount": 990,
+          "matchCount": 1953,
+          "winrate": 0.50691
         },
         "5": {
-          "winCount": 2218,
-          "matchCount": 4469,
-          "winrate": 0.49631
+          "winCount": 2457,
+          "matchCount": 4905,
+          "winrate": 0.50092
         }
       }
     },
     "38": {
-      "winCount": 1256,
-      "matchCount": 2870,
-      "winrate": 0.43763,
+      "winCount": 1257,
+      "matchCount": 2971,
+      "winrate": 0.42309,
       "positions": {
         "1": {
-          "winCount": 42,
-          "matchCount": 86,
-          "winrate": 0.48837
+          "winCount": 34,
+          "matchCount": 88,
+          "winrate": 0.38636
         },
         "2": {
-          "winCount": 294,
-          "matchCount": 650,
-          "winrate": 0.45231
+          "winCount": 282,
+          "matchCount": 667,
+          "winrate": 0.42279
         },
         "3": {
-          "winCount": 847,
-          "matchCount": 1960,
-          "winrate": 0.43214
+          "winCount": 883,
+          "matchCount": 2065,
+          "winrate": 0.4276
         },
         "4": {
-          "winCount": 29,
-          "matchCount": 78,
-          "winrate": 0.37179
+          "winCount": 31,
+          "matchCount": 93,
+          "winrate": 0.33333
         },
         "5": {
-          "winCount": 23,
-          "matchCount": 40,
-          "winrate": 0.575
+          "winCount": 21,
+          "matchCount": 45,
+          "winrate": 0.46667
         }
       }
     },
     "39": {
-      "winCount": 4454,
-      "matchCount": 9447,
-      "winrate": 0.47147,
+      "winCount": 4578,
+      "matchCount": 9729,
+      "winrate": 0.47055,
       "positions": {
         "1": {
-          "winCount": 29,
-          "matchCount": 74,
-          "winrate": 0.39189
+          "winCount": 28,
+          "matchCount": 81,
+          "winrate": 0.34568
         },
         "2": {
-          "winCount": 3321,
-          "matchCount": 7065,
-          "winrate": 0.47006
+          "winCount": 3476,
+          "matchCount": 7374,
+          "winrate": 0.47139
         },
         "3": {
-          "winCount": 180,
-          "matchCount": 388,
-          "winrate": 0.46392
+          "winCount": 191,
+          "matchCount": 425,
+          "winrate": 0.44941
         },
         "4": {
-          "winCount": 614,
-          "matchCount": 1274,
-          "winrate": 0.48195
+          "winCount": 634,
+          "matchCount": 1332,
+          "winrate": 0.47598
         },
         "5": {
-          "winCount": 224,
-          "matchCount": 470,
-          "winrate": 0.4766
+          "winCount": 230,
+          "matchCount": 477,
+          "winrate": 0.48218
         }
       }
     },
     "40": {
-      "winCount": 3090,
-      "matchCount": 6736,
-      "winrate": 0.45873,
+      "winCount": 3188,
+      "matchCount": 6897,
+      "winrate": 0.46223,
       "positions": {
         "1": {
-          "winCount": 28,
-          "matchCount": 80,
-          "winrate": 0.35
+          "winCount": 32,
+          "matchCount": 92,
+          "winrate": 0.34783
         },
         "2": {
-          "winCount": 66,
-          "matchCount": 168,
-          "winrate": 0.39286
+          "winCount": 65,
+          "matchCount": 182,
+          "winrate": 0.35714
         },
         "3": {
-          "winCount": 119,
+          "winCount": 113,
           "matchCount": 298,
-          "winrate": 0.39933
+          "winrate": 0.37919
         },
         "4": {
-          "winCount": 1564,
-          "matchCount": 3355,
-          "winrate": 0.46617
+          "winCount": 1612,
+          "matchCount": 3419,
+          "winrate": 0.47148
         },
         "5": {
-          "winCount": 1239,
-          "matchCount": 2664,
-          "winrate": 0.46509
+          "winCount": 1353,
+          "matchCount": 2869,
+          "winrate": 0.47159
         }
       }
     },
     "41": {
-      "winCount": 4048,
-      "matchCount": 8163,
-      "winrate": 0.4959,
+      "winCount": 4261,
+      "matchCount": 8518,
+      "winrate": 0.50023,
       "positions": {
         "1": {
-          "winCount": 3581,
-          "matchCount": 7267,
-          "winrate": 0.49278
+          "winCount": 3876,
+          "matchCount": 7756,
+          "winrate": 0.49974
         },
         "2": {
-          "winCount": 76,
-          "matchCount": 153,
-          "winrate": 0.49673
+          "winCount": 82,
+          "matchCount": 172,
+          "winrate": 0.47674
         },
         "3": {
-          "winCount": 196,
+          "winCount": 187,
           "matchCount": 343,
-          "winrate": 0.57143
+          "winrate": 0.54519
         },
         "4": {
-          "winCount": 43,
-          "matchCount": 97,
-          "winrate": 0.4433
+          "winCount": 54,
+          "matchCount": 106,
+          "winrate": 0.50943
         },
         "5": {
-          "winCount": 45,
-          "matchCount": 103,
-          "winrate": 0.43689
+          "winCount": 42,
+          "matchCount": 100,
+          "winrate": 0.42
         }
       }
     },
     "42": {
-      "winCount": 6883,
-      "matchCount": 12507,
-      "winrate": 0.55033,
+      "winCount": 7288,
+      "matchCount": 13070,
+      "winrate": 0.55761,
       "positions": {
         "1": {
-          "winCount": 1955,
-          "matchCount": 3559,
-          "winrate": 0.54931
+          "winCount": 2039,
+          "matchCount": 3722,
+          "winrate": 0.54782
         },
         "2": {
-          "winCount": 122,
-          "matchCount": 197,
-          "winrate": 0.61929
+          "winCount": 124,
+          "matchCount": 207,
+          "winrate": 0.59903
         },
         "3": {
-          "winCount": 4544,
-          "matchCount": 8192,
-          "winrate": 0.55469
+          "winCount": 4925,
+          "matchCount": 8742,
+          "winrate": 0.56337
         },
         "4": {
-          "winCount": 96,
-          "matchCount": 223,
-          "winrate": 0.43049
+          "winCount": 117,
+          "matchCount": 241,
+          "winrate": 0.48548
         },
         "5": {
-          "winCount": 50,
-          "matchCount": 120,
-          "winrate": 0.41667
+          "winCount": 58,
+          "matchCount": 118,
+          "winrate": 0.49153
         }
       }
     },
     "43": {
-      "winCount": 1517,
-      "matchCount": 3192,
-      "winrate": 0.47525,
+      "winCount": 1621,
+      "matchCount": 3255,
+      "winrate": 0.498,
       "positions": {
         "1": {
-          "winCount": 17,
-          "matchCount": 35,
-          "winrate": 0.48571
+          "winCount": 18,
+          "matchCount": 37,
+          "winrate": 0.48649
         },
         "2": {
-          "winCount": 655,
-          "matchCount": 1327,
-          "winrate": 0.49359
+          "winCount": 692,
+          "matchCount": 1358,
+          "winrate": 0.50957
         },
         "3": {
-          "winCount": 656,
-          "matchCount": 1375,
-          "winrate": 0.47709
+          "winCount": 715,
+          "matchCount": 1429,
+          "winrate": 0.50035
         },
         "4": {
-          "winCount": 105,
-          "matchCount": 263,
-          "winrate": 0.39924
+          "winCount": 126,
+          "matchCount": 283,
+          "winrate": 0.44523
         },
         "5": {
-          "winCount": 60,
-          "matchCount": 140,
-          "winrate": 0.42857
+          "winCount": 69,
+          "matchCount": 143,
+          "winrate": 0.48252
         }
       }
     },
     "44": {
-      "winCount": 6908,
-      "matchCount": 13206,
-      "winrate": 0.5231,
+      "winCount": 7348,
+      "matchCount": 13907,
+      "winrate": 0.52837,
       "positions": {
         "1": {
-          "winCount": 6202,
-          "matchCount": 11731,
-          "winrate": 0.52868
+          "winCount": 6709,
+          "matchCount": 12574,
+          "winrate": 0.53356
         },
         "2": {
-          "winCount": 260,
-          "matchCount": 541,
-          "winrate": 0.48059
+          "winCount": 313,
+          "matchCount": 597,
+          "winrate": 0.52429
         },
         "3": {
-          "winCount": 125,
-          "matchCount": 294,
-          "winrate": 0.42517
+          "winCount": 162,
+          "matchCount": 339,
+          "winrate": 0.47788
         },
         "4": {
-          "winCount": 52,
-          "matchCount": 129,
-          "winrate": 0.4031
+          "winCount": 61,
+          "matchCount": 142,
+          "winrate": 0.42958
         },
         "5": {
-          "winCount": 88,
-          "matchCount": 191,
-          "winrate": 0.46073
+          "winCount": 74,
+          "matchCount": 193,
+          "winrate": 0.38342
         }
       }
     },
     "45": {
-      "winCount": 2328,
-      "matchCount": 4500,
-      "winrate": 0.51733,
+      "winCount": 2453,
+      "matchCount": 4854,
+      "winrate": 0.50536,
       "positions": {
         "1": {
-          "winCount": 6,
-          "matchCount": 20,
-          "winrate": 0.3
+          "winCount": 11,
+          "matchCount": 26,
+          "winrate": 0.42308
         },
         "2": {
-          "winCount": 311,
-          "matchCount": 610,
-          "winrate": 0.50984
+          "winCount": 323,
+          "matchCount": 655,
+          "winrate": 0.49313
         },
         "3": {
-          "winCount": 56,
-          "matchCount": 135,
-          "winrate": 0.41481
+          "winCount": 60,
+          "matchCount": 141,
+          "winrate": 0.42553
         },
         "4": {
-          "winCount": 1036,
-          "matchCount": 1965,
-          "winrate": 0.52723
+          "winCount": 1072,
+          "matchCount": 2100,
+          "winrate": 0.51048
         },
         "5": {
-          "winCount": 884,
-          "matchCount": 1698,
-          "winrate": 0.52061
+          "winCount": 979,
+          "matchCount": 1913,
+          "winrate": 0.51176
         }
       }
     },
     "46": {
-      "winCount": 3303,
-      "matchCount": 7113,
-      "winrate": 0.46436,
+      "winCount": 3334,
+      "matchCount": 7312,
+      "winrate": 0.45596,
       "positions": {
         "1": {
-          "winCount": 2418,
-          "matchCount": 5200,
-          "winrate": 0.465
+          "winCount": 2542,
+          "matchCount": 5477,
+          "winrate": 0.46412
         },
         "2": {
-          "winCount": 762,
-          "matchCount": 1605,
-          "winrate": 0.47477
+          "winCount": 714,
+          "matchCount": 1611,
+          "winrate": 0.4432
         },
         "3": {
           "winCount": 33,
-          "matchCount": 80,
-          "winrate": 0.4125
+          "matchCount": 83,
+          "winrate": 0.39759
         },
         "4": {
-          "winCount": 20,
-          "matchCount": 60,
-          "winrate": 0.33333
+          "winCount": 21,
+          "matchCount": 62,
+          "winrate": 0.33871
         },
         "5": {
-          "winCount": 21,
-          "matchCount": 49,
-          "winrate": 0.42857
+          "winCount": 17,
+          "matchCount": 57,
+          "winrate": 0.29825
         }
       }
     },
     "47": {
-      "winCount": 2936,
-      "matchCount": 6100,
-      "winrate": 0.48131,
+      "winCount": 3038,
+      "matchCount": 6232,
+      "winrate": 0.48748,
       "positions": {
         "1": {
-          "winCount": 164,
-          "matchCount": 375,
-          "winrate": 0.43733
+          "winCount": 165,
+          "matchCount": 380,
+          "winrate": 0.43421
         },
         "2": {
-          "winCount": 1122,
-          "matchCount": 2297,
-          "winrate": 0.48846
+          "winCount": 1204,
+          "matchCount": 2417,
+          "winrate": 0.49814
         },
         "3": {
-          "winCount": 1097,
-          "matchCount": 2297,
-          "winrate": 0.47758
+          "winCount": 1137,
+          "matchCount": 2352,
+          "winrate": 0.48342
         },
         "4": {
-          "winCount": 315,
-          "matchCount": 631,
-          "winrate": 0.49921
+          "winCount": 322,
+          "matchCount": 663,
+          "winrate": 0.48567
         },
         "5": {
-          "winCount": 192,
-          "matchCount": 379,
-          "winrate": 0.5066
+          "winCount": 191,
+          "matchCount": 388,
+          "winrate": 0.49227
         }
       }
     },
     "48": {
-      "winCount": 6787,
-      "matchCount": 13386,
-      "winrate": 0.50702,
+      "winCount": 7201,
+      "matchCount": 14131,
+      "winrate": 0.50959,
       "positions": {
         "1": {
-          "winCount": 6314,
-          "matchCount": 12393,
-          "winrate": 0.50948
+          "winCount": 6785,
+          "matchCount": 13208,
+          "winrate": 0.5137
         },
         "2": {
-          "winCount": 172,
-          "matchCount": 330,
-          "winrate": 0.52121
+          "winCount": 163,
+          "matchCount": 344,
+          "winrate": 0.47384
         },
         "3": {
-          "winCount": 97,
-          "matchCount": 205,
-          "winrate": 0.47317
+          "winCount": 92,
+          "matchCount": 212,
+          "winrate": 0.43396
         },
         "4": {
-          "winCount": 83,
-          "matchCount": 169,
-          "winrate": 0.49112
+          "winCount": 96,
+          "matchCount": 197,
+          "winrate": 0.48731
         },
         "5": {
-          "winCount": 41,
-          "matchCount": 107,
-          "winrate": 0.38318
+          "winCount": 44,
+          "matchCount": 127,
+          "winrate": 0.34646
         }
       }
     },
     "49": {
-      "winCount": 3068,
-      "matchCount": 5985,
-      "winrate": 0.51261,
+      "winCount": 3326,
+      "matchCount": 6411,
+      "winrate": 0.5188,
       "positions": {
         "1": {
-          "winCount": 265,
-          "matchCount": 577,
-          "winrate": 0.45927
+          "winCount": 287,
+          "matchCount": 606,
+          "winrate": 0.4736
         },
         "2": {
-          "winCount": 1030,
-          "matchCount": 1891,
-          "winrate": 0.54469
+          "winCount": 1193,
+          "matchCount": 2144,
+          "winrate": 0.55644
         },
         "3": {
-          "winCount": 1674,
-          "matchCount": 3299,
-          "winrate": 0.50743
+          "winCount": 1791,
+          "matchCount": 3540,
+          "winrate": 0.50593
         },
         "4": {
-          "winCount": 34,
-          "matchCount": 76,
-          "winrate": 0.44737
+          "winCount": 32,
+          "matchCount": 67,
+          "winrate": 0.47761
         },
         "5": {
-          "winCount": 14,
+          "winCount": 17,
           "matchCount": 36,
-          "winrate": 0.38889
+          "winrate": 0.47222
         }
       }
     },
     "50": {
-      "winCount": 3452,
-      "matchCount": 6596,
-      "winrate": 0.52335,
+      "winCount": 3532,
+      "matchCount": 6887,
+      "winrate": 0.51285,
       "positions": {
         "1": {
-          "winCount": 10,
-          "matchCount": 24,
-          "winrate": 0.41667
+          "winCount": 13,
+          "matchCount": 33,
+          "winrate": 0.39394
         },
         "2": {
-          "winCount": 46,
-          "matchCount": 107,
-          "winrate": 0.42991
+          "winCount": 41,
+          "matchCount": 98,
+          "winrate": 0.41837
         },
         "3": {
-          "winCount": 26,
-          "matchCount": 60,
-          "winrate": 0.43333
+          "winCount": 30,
+          "matchCount": 65,
+          "winrate": 0.46154
         },
         "4": {
-          "winCount": 679,
-          "matchCount": 1350,
-          "winrate": 0.50296
+          "winCount": 726,
+          "matchCount": 1472,
+          "winrate": 0.49321
         },
         "5": {
-          "winCount": 2627,
-          "matchCount": 4945,
-          "winrate": 0.53124
+          "winCount": 2713,
+          "matchCount": 5203,
+          "winrate": 0.52143
         }
       }
     },
     "51": {
-      "winCount": 2370,
-      "matchCount": 5059,
-      "winrate": 0.46847,
+      "winCount": 2296,
+      "matchCount": 4964,
+      "winrate": 0.46253,
       "positions": {
         "1": {
-          "winCount": 5,
-          "matchCount": 23,
-          "winrate": 0.21739
+          "winCount": 8,
+          "matchCount": 29,
+          "winrate": 0.27586
         },
         "2": {
-          "winCount": 50,
-          "matchCount": 106,
-          "winrate": 0.4717
+          "winCount": 37,
+          "matchCount": 94,
+          "winrate": 0.39362
         },
         "3": {
-          "winCount": 313,
-          "matchCount": 669,
-          "winrate": 0.46786
+          "winCount": 324,
+          "matchCount": 708,
+          "winrate": 0.45763
         },
         "4": {
-          "winCount": 1038,
-          "matchCount": 2193,
-          "winrate": 0.47332
+          "winCount": 1000,
+          "matchCount": 2178,
+          "winrate": 0.45914
         },
         "5": {
-          "winCount": 903,
-          "matchCount": 1946,
-          "winrate": 0.46403
+          "winCount": 916,
+          "matchCount": 1937,
+          "winrate": 0.4729
         }
       }
     },
     "52": {
-      "winCount": 1252,
-      "matchCount": 2399,
-      "winrate": 0.52188,
+      "winCount": 1316,
+      "matchCount": 2524,
+      "winrate": 0.52139,
       "positions": {
         "1": {
-          "winCount": 165,
-          "matchCount": 276,
-          "winrate": 0.59783
+          "winCount": 154,
+          "matchCount": 265,
+          "winrate": 0.58113
         },
         "2": {
-          "winCount": 748,
-          "matchCount": 1435,
-          "winrate": 0.52125
+          "winCount": 812,
+          "matchCount": 1571,
+          "winrate": 0.51687
         },
         "3": {
-          "winCount": 120,
-          "matchCount": 231,
-          "winrate": 0.51948
+          "winCount": 139,
+          "matchCount": 258,
+          "winrate": 0.53876
         },
         "4": {
           "winCount": 120,
-          "matchCount": 258,
-          "winrate": 0.46512
+          "matchCount": 250,
+          "winrate": 0.48
         },
         "5": {
-          "winCount": 66,
-          "matchCount": 137,
-          "winrate": 0.48175
+          "winCount": 86,
+          "matchCount": 169,
+          "winrate": 0.50888
         }
       }
     },
     "53": {
-      "winCount": 3935,
-      "matchCount": 9558,
-      "winrate": 0.4117,
+      "winCount": 3958,
+      "matchCount": 9522,
+      "winrate": 0.41567,
       "positions": {
         "1": {
-          "winCount": 1076,
+          "winCount": 1095,
           "matchCount": 2706,
-          "winrate": 0.39763
+          "winrate": 0.40466
         },
         "2": {
-          "winCount": 788,
-          "matchCount": 1864,
-          "winrate": 0.42275
+          "winCount": 789,
+          "matchCount": 1888,
+          "winrate": 0.4179
         },
         "3": {
-          "winCount": 312,
-          "matchCount": 764,
-          "winrate": 0.40838
+          "winCount": 342,
+          "matchCount": 799,
+          "winrate": 0.42804
         },
         "4": {
-          "winCount": 1173,
-          "matchCount": 2788,
-          "winrate": 0.42073
+          "winCount": 1193,
+          "matchCount": 2819,
+          "winrate": 0.4232
         },
         "5": {
-          "winCount": 489,
-          "matchCount": 1210,
-          "winrate": 0.40413
+          "winCount": 529,
+          "matchCount": 1276,
+          "winrate": 0.41458
         }
       }
     },
     "54": {
-      "winCount": 10939,
-      "matchCount": 20705,
-      "winrate": 0.52833,
+      "winCount": 10742,
+      "matchCount": 20532,
+      "winrate": 0.52318,
       "positions": {
         "1": {
-          "winCount": 10165,
-          "matchCount": 19063,
-          "winrate": 0.53323
+          "winCount": 10076,
+          "matchCount": 19092,
+          "winrate": 0.52776
         },
         "2": {
-          "winCount": 49,
-          "matchCount": 114,
-          "winrate": 0.42982
+          "winCount": 47,
+          "matchCount": 104,
+          "winrate": 0.45192
         },
         "3": {
-          "winCount": 463,
-          "matchCount": 952,
-          "winrate": 0.48634
+          "winCount": 468,
+          "matchCount": 977,
+          "winrate": 0.47902
         },
         "4": {
-          "winCount": 56,
-          "matchCount": 138,
-          "winrate": 0.4058
+          "winCount": 70,
+          "matchCount": 161,
+          "winrate": 0.43478
         },
         "5": {
-          "winCount": 69,
-          "matchCount": 141,
-          "winrate": 0.48936
+          "winCount": 58,
+          "matchCount": 143,
+          "winrate": 0.40559
         }
       }
     },
     "55": {
-      "winCount": 3919,
-      "matchCount": 7807,
-      "winrate": 0.50199,
+      "winCount": 4094,
+      "matchCount": 8198,
+      "winrate": 0.49939,
       "positions": {
         "1": {
-          "winCount": 28,
-          "matchCount": 66,
-          "winrate": 0.42424
+          "winCount": 24,
+          "matchCount": 68,
+          "winrate": 0.35294
         },
         "2": {
-          "winCount": 131,
-          "matchCount": 259,
-          "winrate": 0.50579
+          "winCount": 149,
+          "matchCount": 280,
+          "winrate": 0.53214
         },
         "3": {
-          "winCount": 3431,
-          "matchCount": 6794,
-          "winrate": 0.505
+          "winCount": 3628,
+          "matchCount": 7246,
+          "winrate": 0.50069
         },
         "4": {
-          "winCount": 178,
-          "matchCount": 368,
-          "winrate": 0.4837
+          "winCount": 192,
+          "matchCount": 401,
+          "winrate": 0.4788
         },
         "5": {
-          "winCount": 76,
-          "matchCount": 160,
-          "winrate": 0.475
+          "winCount": 83,
+          "matchCount": 171,
+          "winrate": 0.48538
         }
       }
     },
     "56": {
-      "winCount": 2355,
-      "matchCount": 4630,
-      "winrate": 0.50864,
+      "winCount": 2431,
+      "matchCount": 4744,
+      "winrate": 0.51244,
       "positions": {
         "1": {
-          "winCount": 1169,
-          "matchCount": 2250,
-          "winrate": 0.51956
+          "winCount": 1189,
+          "matchCount": 2319,
+          "winrate": 0.51272
         },
         "2": {
-          "winCount": 824,
-          "matchCount": 1657,
-          "winrate": 0.49728
+          "winCount": 912,
+          "matchCount": 1754,
+          "winrate": 0.51995
         },
         "3": {
-          "winCount": 102,
-          "matchCount": 187,
-          "winrate": 0.54545
+          "winCount": 114,
+          "matchCount": 213,
+          "winrate": 0.53521
         },
         "4": {
-          "winCount": 144,
-          "matchCount": 313,
-          "winrate": 0.46006
+          "winCount": 148,
+          "matchCount": 315,
+          "winrate": 0.46984
         },
         "5": {
-          "winCount": 47,
-          "matchCount": 110,
-          "winrate": 0.42727
+          "winCount": 49,
+          "matchCount": 112,
+          "winrate": 0.4375
         }
       }
     },
     "57": {
-      "winCount": 1388,
-      "matchCount": 2622,
-      "winrate": 0.52937,
+      "winCount": 1400,
+      "matchCount": 2671,
+      "winrate": 0.52415,
       "positions": {
         "1": {
-          "winCount": 22,
-          "matchCount": 46,
-          "winrate": 0.47826
+          "winCount": 32,
+          "matchCount": 63,
+          "winrate": 0.50794
         },
         "2": {
-          "winCount": 58,
-          "matchCount": 103,
-          "winrate": 0.56311
+          "winCount": 54,
+          "matchCount": 98,
+          "winrate": 0.55102
         },
         "3": {
-          "winCount": 505,
-          "matchCount": 982,
-          "winrate": 0.51426
+          "winCount": 536,
+          "matchCount": 1063,
+          "winrate": 0.50423
         },
         "4": {
-          "winCount": 298,
-          "matchCount": 573,
-          "winrate": 0.52007
+          "winCount": 315,
+          "matchCount": 593,
+          "winrate": 0.5312
         },
         "5": {
-          "winCount": 469,
-          "matchCount": 857,
-          "winrate": 0.54726
+          "winCount": 458,
+          "matchCount": 846,
+          "winrate": 0.54137
         }
       }
     },
     "58": {
-      "winCount": 1341,
-      "matchCount": 2783,
-      "winrate": 0.48185,
-      "positions": {
-        "1": {
-          "winCount": 15,
-          "matchCount": 33,
-          "winrate": 0.45455
-        },
-        "2": {
-          "winCount": 158,
-          "matchCount": 301,
-          "winrate": 0.52492
-        },
-        "3": {
-          "winCount": 136,
-          "matchCount": 275,
-          "winrate": 0.49455
-        },
-        "4": {
-          "winCount": 493,
-          "matchCount": 1032,
-          "winrate": 0.47771
-        },
-        "5": {
-          "winCount": 514,
-          "matchCount": 1083,
-          "winrate": 0.47461
-        }
-      }
-    },
-    "59": {
-      "winCount": 1688,
-      "matchCount": 3779,
-      "winrate": 0.44668,
-      "positions": {
-        "1": {
-          "winCount": 61,
-          "matchCount": 154,
-          "winrate": 0.3961
-        },
-        "2": {
-          "winCount": 964,
-          "matchCount": 2072,
-          "winrate": 0.46525
-        },
-        "3": {
-          "winCount": 354,
-          "matchCount": 818,
-          "winrate": 0.43276
-        },
-        "4": {
-          "winCount": 140,
-          "matchCount": 341,
-          "winrate": 0.41056
-        },
-        "5": {
-          "winCount": 135,
-          "matchCount": 310,
-          "winrate": 0.43548
-        }
-      }
-    },
-    "60": {
-      "winCount": 5462,
-      "matchCount": 10485,
-      "winrate": 0.52093,
-      "positions": {
-        "1": {
-          "winCount": 40,
-          "matchCount": 86,
-          "winrate": 0.46512
-        },
-        "2": {
-          "winCount": 170,
-          "matchCount": 323,
-          "winrate": 0.52632
-        },
-        "3": {
-          "winCount": 5123,
-          "matchCount": 9823,
-          "winrate": 0.52153
-        },
-        "4": {
-          "winCount": 58,
-          "matchCount": 114,
-          "winrate": 0.50877
-        },
-        "5": {
-          "winCount": 16,
-          "matchCount": 30,
-          "winrate": 0.53333
-        }
-      }
-    },
-    "61": {
-      "winCount": 1352,
-      "matchCount": 2706,
-      "winrate": 0.49963,
-      "positions": {
-        "1": {
-          "winCount": 143,
-          "matchCount": 305,
-          "winrate": 0.46885
-        },
-        "2": {
-          "winCount": 985,
-          "matchCount": 1877,
-          "winrate": 0.52477
-        },
-        "3": {
-          "winCount": 182,
-          "matchCount": 422,
-          "winrate": 0.43128
-        },
-        "4": {
-          "winCount": 14,
-          "matchCount": 38,
-          "winrate": 0.36842
-        },
-        "5": {
-          "winCount": 5,
-          "matchCount": 19,
-          "winrate": 0.26316
-        }
-      }
-    },
-    "62": {
-      "winCount": 5512,
-      "matchCount": 10175,
-      "winrate": 0.54172,
-      "positions": {
-        "1": {
-          "winCount": 50,
-          "matchCount": 123,
-          "winrate": 0.4065
-        },
-        "2": {
-          "winCount": 116,
-          "matchCount": 260,
-          "winrate": 0.44615
-        },
-        "3": {
-          "winCount": 100,
-          "matchCount": 235,
-          "winrate": 0.42553
-        },
-        "4": {
-          "winCount": 4202,
-          "matchCount": 7572,
-          "winrate": 0.55494
-        },
-        "5": {
-          "winCount": 941,
-          "matchCount": 1791,
-          "winrate": 0.5254
-        }
-      }
-    },
-    "63": {
-      "winCount": 2722,
-      "matchCount": 5855,
-      "winrate": 0.4649,
-      "positions": {
-        "1": {
-          "winCount": 983,
-          "matchCount": 2150,
-          "winrate": 0.45721
-        },
-        "2": {
-          "winCount": 250,
-          "matchCount": 532,
-          "winrate": 0.46992
-        },
-        "3": {
-          "winCount": 239,
-          "matchCount": 516,
-          "winrate": 0.46318
-        },
-        "4": {
-          "winCount": 847,
-          "matchCount": 1810,
-          "winrate": 0.46796
-        },
-        "5": {
-          "winCount": 357,
-          "matchCount": 729,
-          "winrate": 0.48971
-        }
-      }
-    },
-    "64": {
-      "winCount": 4551,
-      "matchCount": 9268,
-      "winrate": 0.49104,
-      "positions": {
-        "1": {
-          "winCount": 40,
-          "matchCount": 102,
-          "winrate": 0.39216
-        },
-        "2": {
-          "winCount": 280,
-          "matchCount": 569,
-          "winrate": 0.49209
-        },
-        "3": {
-          "winCount": 98,
-          "matchCount": 203,
-          "winrate": 0.48276
-        },
-        "4": {
-          "winCount": 1471,
-          "matchCount": 2927,
-          "winrate": 0.50256
-        },
-        "5": {
-          "winCount": 2547,
-          "matchCount": 5253,
-          "winrate": 0.48487
-        }
-      }
-    },
-    "65": {
-      "winCount": 565,
-      "matchCount": 1342,
-      "winrate": 0.42101,
-      "positions": {
-        "1": {
-          "winCount": 6,
-          "matchCount": 16,
-          "winrate": 0.375
-        },
-        "2": {
-          "winCount": 168,
-          "matchCount": 378,
-          "winrate": 0.44444
-        },
-        "3": {
-          "winCount": 129,
-          "matchCount": 293,
-          "winrate": 0.44027
-        },
-        "4": {
-          "winCount": 150,
-          "matchCount": 393,
-          "winrate": 0.38168
-        },
-        "5": {
-          "winCount": 103,
-          "matchCount": 238,
-          "winrate": 0.43277
-        }
-      }
-    },
-    "66": {
-      "winCount": 319,
-      "matchCount": 689,
-      "winrate": 0.46299,
-      "positions": {
-        "1": {
-          "winCount": 1,
-          "matchCount": 14,
-          "winrate": 0.07143
-        },
-        "2": {
-          "winCount": 5,
-          "matchCount": 16,
-          "winrate": 0.3125
-        },
-        "3": {
-          "winCount": 5,
-          "matchCount": 18,
-          "winrate": 0.27778
-        },
-        "4": {
-          "winCount": 79,
-          "matchCount": 151,
-          "winrate": 0.52318
-        },
-        "5": {
-          "winCount": 221,
-          "matchCount": 474,
-          "winrate": 0.46624
-        }
-      }
-    },
-    "67": {
-      "winCount": 6943,
-      "matchCount": 12975,
-      "winrate": 0.53511,
-      "positions": {
-        "1": {
-          "winCount": 6478,
-          "matchCount": 12099,
-          "winrate": 0.53542
-        },
-        "2": {
-          "winCount": 97,
-          "matchCount": 196,
-          "winrate": 0.4949
-        },
-        "3": {
-          "winCount": 198,
-          "matchCount": 332,
-          "winrate": 0.59639
-        },
-        "4": {
-          "winCount": 27,
-          "matchCount": 49,
-          "winrate": 0.55102
-        },
-        "5": {
-          "winCount": 29,
-          "matchCount": 75,
-          "winrate": 0.38667
-        }
-      }
-    },
-    "68": {
-      "winCount": 3915,
-      "matchCount": 7476,
-      "winrate": 0.52368,
-      "positions": {
-        "1": {
-          "winCount": 13,
-          "matchCount": 38,
-          "winrate": 0.34211
-        },
-        "2": {
-          "winCount": 173,
-          "matchCount": 334,
-          "winrate": 0.51796
-        },
-        "3": {
-          "winCount": 19,
-          "matchCount": 56,
-          "winrate": 0.33929
-        },
-        "4": {
-          "winCount": 1416,
-          "matchCount": 2622,
-          "winrate": 0.54005
-        },
-        "5": {
-          "winCount": 2202,
-          "matchCount": 4253,
-          "winrate": 0.51775
-        }
-      }
-    },
-    "69": {
-      "winCount": 2752,
-      "matchCount": 5832,
-      "winrate": 0.47188,
-      "positions": {
-        "1": {
-          "winCount": 56,
-          "matchCount": 136,
-          "winrate": 0.41176
-        },
-        "2": {
-          "winCount": 72,
-          "matchCount": 160,
-          "winrate": 0.45
-        },
-        "3": {
-          "winCount": 2448,
-          "matchCount": 5203,
-          "winrate": 0.4705
-        },
-        "4": {
-          "winCount": 78,
-          "matchCount": 161,
-          "winrate": 0.48447
-        },
-        "5": {
-          "winCount": 36,
-          "matchCount": 70,
-          "winrate": 0.51429
-        }
-      }
-    },
-    "70": {
-      "winCount": 3598,
-      "matchCount": 7449,
-      "winrate": 0.48302,
-      "positions": {
-        "1": {
-          "winCount": 3074,
-          "matchCount": 6416,
-          "winrate": 0.47911
-        },
-        "2": {
-          "winCount": 168,
-          "matchCount": 312,
-          "winrate": 0.53846
-        },
-        "3": {
-          "winCount": 259,
-          "matchCount": 504,
-          "winrate": 0.51389
-        },
-        "4": {
-          "winCount": 18,
-          "matchCount": 48,
-          "winrate": 0.375
-        },
-        "5": {
-          "winCount": 20,
-          "matchCount": 51,
-          "winrate": 0.39216
-        }
-      }
-    },
-    "71": {
-      "winCount": 9364,
-      "matchCount": 18076,
-      "winrate": 0.51803,
-      "positions": {
-        "1": {
-          "winCount": 39,
-          "matchCount": 94,
-          "winrate": 0.41489
-        },
-        "2": {
-          "winCount": 329,
-          "matchCount": 672,
-          "winrate": 0.48958
-        },
-        "3": {
-          "winCount": 1972,
-          "matchCount": 3990,
-          "winrate": 0.49424
-        },
-        "4": {
-          "winCount": 5664,
-          "matchCount": 10630,
-          "winrate": 0.53283
-        },
-        "5": {
-          "winCount": 1221,
-          "matchCount": 2358,
-          "winrate": 0.51781
-        }
-      }
-    },
-    "72": {
-      "winCount": 1358,
-      "matchCount": 3029,
-      "winrate": 0.44833,
-      "positions": {
-        "1": {
-          "winCount": 367,
-          "matchCount": 863,
-          "winrate": 0.42526
-        },
-        "2": {
-          "winCount": 100,
-          "matchCount": 249,
-          "winrate": 0.40161
-        },
-        "3": {
-          "winCount": 81,
-          "matchCount": 161,
-          "winrate": 0.50311
-        },
-        "4": {
-          "winCount": 544,
-          "matchCount": 1152,
-          "winrate": 0.47222
-        },
-        "5": {
-          "winCount": 224,
-          "matchCount": 511,
-          "winrate": 0.43836
-        }
-      }
-    },
-    "73": {
-      "winCount": 1400,
-      "matchCount": 2942,
-      "winrate": 0.47587,
-      "positions": {
-        "1": {
-          "winCount": 408,
-          "matchCount": 929,
-          "winrate": 0.43918
-        },
-        "2": {
-          "winCount": 214,
-          "matchCount": 425,
-          "winrate": 0.50353
-        },
-        "3": {
-          "winCount": 298,
-          "matchCount": 665,
-          "winrate": 0.44812
-        },
-        "4": {
-          "winCount": 278,
-          "matchCount": 538,
-          "winrate": 0.51673
-        },
-        "5": {
-          "winCount": 158,
-          "matchCount": 303,
-          "winrate": 0.52145
-        }
-      }
-    },
-    "74": {
-      "winCount": 14315,
-      "matchCount": 28418,
-      "winrate": 0.50373,
-      "positions": {
-        "1": {
-          "winCount": 73,
-          "matchCount": 167,
-          "winrate": 0.43713
-        },
-        "2": {
-          "winCount": 10022,
-          "matchCount": 19559,
-          "winrate": 0.5124
-        },
-        "3": {
-          "winCount": 225,
-          "matchCount": 509,
-          "winrate": 0.44204
-        },
-        "4": {
-          "winCount": 2498,
-          "matchCount": 5160,
-          "winrate": 0.48411
-        },
-        "5": {
-          "winCount": 1211,
-          "matchCount": 2504,
-          "winrate": 0.48363
-        }
-      }
-    },
-    "75": {
-      "winCount": 5012,
-      "matchCount": 10013,
-      "winrate": 0.50055,
-      "positions": {
-        "1": {
-          "winCount": 82,
-          "matchCount": 163,
-          "winrate": 0.50307
-        },
-        "2": {
-          "winCount": 559,
-          "matchCount": 1178,
-          "winrate": 0.47453
-        },
-        "3": {
-          "winCount": 102,
-          "matchCount": 206,
-          "winrate": 0.49515
-        },
-        "4": {
-          "winCount": 2056,
-          "matchCount": 4102,
-          "winrate": 0.50122
-        },
-        "5": {
-          "winCount": 2108,
-          "matchCount": 4152,
-          "winrate": 0.50771
-        }
-      }
-    },
-    "76": {
-      "winCount": 5200,
-      "matchCount": 9618,
-      "winrate": 0.54065,
-      "positions": {
-        "1": {
-          "winCount": 59,
-          "matchCount": 115,
-          "winrate": 0.51304
-        },
-        "2": {
-          "winCount": 4846,
-          "matchCount": 8901,
-          "winrate": 0.54443
-        },
-        "3": {
-          "winCount": 98,
-          "matchCount": 195,
-          "winrate": 0.50256
-        },
-        "4": {
-          "winCount": 86,
-          "matchCount": 178,
-          "winrate": 0.48315
-        },
-        "5": {
-          "winCount": 39,
-          "matchCount": 85,
-          "winrate": 0.45882
-        }
-      }
-    },
-    "77": {
-      "winCount": 909,
-      "matchCount": 1786,
-      "winrate": 0.50896,
-      "positions": {
-        "1": {
-          "winCount": 26,
-          "matchCount": 61,
-          "winrate": 0.42623
-        },
-        "2": {
-          "winCount": 116,
-          "matchCount": 215,
-          "winrate": 0.53953
-        },
-        "3": {
-          "winCount": 718,
-          "matchCount": 1413,
-          "winrate": 0.50814
-        },
-        "4": {
-          "winCount": 21,
-          "matchCount": 43,
-          "winrate": 0.48837
-        },
-        "5": {
-          "winCount": 8,
-          "matchCount": 21,
-          "winrate": 0.38095
-        }
-      }
-    },
-    "78": {
-      "winCount": 1121,
-      "matchCount": 2205,
-      "winrate": 0.50839,
-      "positions": {
-        "1": {
-          "winCount": 14,
-          "matchCount": 39,
-          "winrate": 0.35897
-        },
-        "2": {
-          "winCount": 76,
-          "matchCount": 151,
-          "winrate": 0.50331
-        },
-        "3": {
-          "winCount": 940,
-          "matchCount": 1829,
-          "winrate": 0.51394
-        },
-        "4": {
-          "winCount": 36,
-          "matchCount": 85,
-          "winrate": 0.42353
-        },
-        "5": {
-          "winCount": 39,
-          "matchCount": 65,
-          "winrate": 0.6
-        }
-      }
-    },
-    "79": {
-      "winCount": 1195,
-      "matchCount": 2708,
-      "winrate": 0.44129,
-      "positions": {
-        "1": {
-          "winCount": 4,
-          "matchCount": 11,
-          "winrate": 0.36364
-        },
-        "2": {
-          "winCount": 35,
-          "matchCount": 87,
-          "winrate": 0.4023
-        },
-        "3": {
-          "winCount": 16,
-          "matchCount": 39,
-          "winrate": 0.41026
-        },
-        "4": {
-          "winCount": 478,
-          "matchCount": 1055,
-          "winrate": 0.45308
-        },
-        "5": {
-          "winCount": 640,
-          "matchCount": 1454,
-          "winrate": 0.44017
-        }
-      }
-    },
-    "80": {
-      "winCount": 2123,
-      "matchCount": 4454,
-      "winrate": 0.47665,
-      "positions": {
-        "1": {
-          "winCount": 1340,
-          "matchCount": 2791,
-          "winrate": 0.48011
-        },
-        "2": {
-          "winCount": 514,
-          "matchCount": 1056,
-          "winrate": 0.48674
-        },
-        "3": {
-          "winCount": 194,
-          "matchCount": 409,
-          "winrate": 0.47433
-        },
-        "4": {
-          "winCount": 28,
-          "matchCount": 70,
-          "winrate": 0.4
-        },
-        "5": {
-          "winCount": 13,
-          "matchCount": 49,
-          "winrate": 0.26531
-        }
-      }
-    },
-    "81": {
-      "winCount": 2048,
-      "matchCount": 4163,
-      "winrate": 0.49195,
-      "positions": {
-        "1": {
-          "winCount": 516,
-          "matchCount": 1070,
-          "winrate": 0.48224
-        },
-        "2": {
-          "winCount": 70,
-          "matchCount": 121,
-          "winrate": 0.57851
-        },
-        "3": {
-          "winCount": 1342,
-          "matchCount": 2723,
-          "winrate": 0.49284
-        },
-        "4": {
-          "winCount": 50,
-          "matchCount": 105,
-          "winrate": 0.47619
-        },
-        "5": {
-          "winCount": 34,
-          "matchCount": 81,
-          "winrate": 0.41975
-        }
-      }
-    },
-    "82": {
-      "winCount": 1157,
-      "matchCount": 2142,
-      "winrate": 0.54015,
-      "positions": {
-        "1": {
-          "winCount": 137,
-          "matchCount": 267,
-          "winrate": 0.51311
-        },
-        "2": {
-          "winCount": 927,
-          "matchCount": 1664,
-          "winrate": 0.55709
-        },
-        "3": {
-          "winCount": 39,
-          "matchCount": 90,
-          "winrate": 0.43333
-        },
-        "4": {
-          "winCount": 19,
-          "matchCount": 43,
-          "winrate": 0.44186
-        },
-        "5": {
-          "winCount": 15,
-          "matchCount": 35,
-          "winrate": 0.42857
-        }
-      }
-    },
-    "83": {
-      "winCount": 3123,
-      "matchCount": 6562,
-      "winrate": 0.47592,
-      "positions": {
-        "1": {
-          "winCount": 20,
-          "matchCount": 63,
-          "winrate": 0.31746
-        },
-        "2": {
-          "winCount": 11,
-          "matchCount": 43,
-          "winrate": 0.25581
-        },
-        "3": {
-          "winCount": 138,
-          "matchCount": 286,
-          "winrate": 0.48252
-        },
-        "4": {
-          "winCount": 668,
-          "matchCount": 1459,
-          "winrate": 0.45785
-        },
-        "5": {
-          "winCount": 2222,
-          "matchCount": 4593,
-          "winrate": 0.48378
-        }
-      }
-    },
-    "84": {
-      "winCount": 9112,
-      "matchCount": 17968,
-      "winrate": 0.50712,
-      "positions": {
-        "1": {
-          "winCount": 99,
-          "matchCount": 221,
-          "winrate": 0.44796
-        },
-        "2": {
-          "winCount": 949,
-          "matchCount": 1833,
-          "winrate": 0.51773
-        },
-        "3": {
-          "winCount": 1599,
-          "matchCount": 3145,
-          "winrate": 0.50843
-        },
-        "4": {
-          "winCount": 2765,
-          "matchCount": 5424,
-          "winrate": 0.50977
-        },
-        "5": {
-          "winCount": 3479,
-          "matchCount": 6914,
-          "winrate": 0.50318
-        }
-      }
-    },
-    "85": {
-      "winCount": 8756,
-      "matchCount": 17546,
-      "winrate": 0.49903,
-      "positions": {
-        "1": {
-          "winCount": 29,
-          "matchCount": 81,
-          "winrate": 0.35802
-        },
-        "2": {
-          "winCount": 92,
-          "matchCount": 183,
-          "winrate": 0.50273
-        },
-        "3": {
-          "winCount": 2243,
-          "matchCount": 4683,
-          "winrate": 0.47897
-        },
-        "4": {
-          "winCount": 2770,
-          "matchCount": 5474,
-          "winrate": 0.50603
-        },
-        "5": {
-          "winCount": 3495,
-          "matchCount": 6864,
-          "winrate": 0.50918
-        }
-      }
-    },
-    "86": {
-      "winCount": 13846,
-      "matchCount": 27795,
-      "winrate": 0.49815,
-      "positions": {
-        "1": {
-          "winCount": 69,
-          "matchCount": 160,
-          "winrate": 0.43125
-        },
-        "2": {
-          "winCount": 2631,
-          "matchCount": 5200,
-          "winrate": 0.50596
-        },
-        "3": {
-          "winCount": 248,
-          "matchCount": 549,
-          "winrate": 0.45173
-        },
-        "4": {
-          "winCount": 6981,
-          "matchCount": 14020,
-          "winrate": 0.49793
-        },
-        "5": {
-          "winCount": 3647,
-          "matchCount": 7318,
-          "winrate": 0.49836
-        }
-      }
-    },
-    "87": {
-      "winCount": 4228,
-      "matchCount": 8337,
-      "winrate": 0.50714,
-      "positions": {
-        "1": {
-          "winCount": 2,
-          "matchCount": 10,
-          "winrate": 0.2
-        },
-        "2": {
-          "winCount": 33,
-          "matchCount": 67,
-          "winrate": 0.49254
-        },
-        "3": {
-          "winCount": 6,
-          "matchCount": 18,
-          "winrate": 0.33333
-        },
-        "4": {
-          "winCount": 1015,
-          "matchCount": 2053,
-          "winrate": 0.4944
-        },
-        "5": {
-          "winCount": 3105,
-          "matchCount": 6064,
-          "winrate": 0.51204
-        }
-      }
-    },
-    "88": {
-      "winCount": 3519,
-      "matchCount": 6807,
-      "winrate": 0.51697,
-      "positions": {
-        "1": {
-          "winCount": 27,
-          "matchCount": 63,
-          "winrate": 0.42857
-        },
-        "2": {
-          "winCount": 755,
-          "matchCount": 1497,
-          "winrate": 0.50434
-        },
-        "3": {
-          "winCount": 337,
-          "matchCount": 686,
-          "winrate": 0.49125
-        },
-        "4": {
-          "winCount": 1740,
-          "matchCount": 3330,
-          "winrate": 0.52252
-        },
-        "5": {
-          "winCount": 565,
-          "matchCount": 1062,
-          "winrate": 0.53202
-        }
-      }
-    },
-    "89": {
-      "winCount": 689,
-      "matchCount": 1409,
-      "winrate": 0.489,
-      "positions": {
-        "1": {
-          "winCount": 528,
-          "matchCount": 1103,
-          "winrate": 0.47869
-        },
-        "2": {
-          "winCount": 46,
-          "matchCount": 77,
-          "winrate": 0.5974
-        },
-        "3": {
-          "winCount": 36,
-          "matchCount": 66,
-          "winrate": 0.54545
-        },
-        "4": {
-          "winCount": 42,
-          "matchCount": 70,
-          "winrate": 0.6
-        },
-        "5": {
-          "winCount": 16,
-          "matchCount": 47,
-          "winrate": 0.34043
-        }
-      }
-    },
-    "90": {
-      "winCount": 4306,
-      "matchCount": 8433,
-      "winrate": 0.51061,
-      "positions": {
-        "1": {
-          "winCount": 26,
-          "matchCount": 52,
-          "winrate": 0.5
-        },
-        "2": {
-          "winCount": 2809,
-          "matchCount": 5374,
-          "winrate": 0.5227
-        },
-        "3": {
-          "winCount": 111,
-          "matchCount": 243,
-          "winrate": 0.45679
-        },
-        "4": {
-          "winCount": 906,
-          "matchCount": 1815,
-          "winrate": 0.49917
-        },
-        "5": {
-          "winCount": 395,
-          "matchCount": 831,
-          "winrate": 0.47533
-        }
-      }
-    },
-    "91": {
-      "winCount": 3519,
-      "matchCount": 7253,
-      "winrate": 0.48518,
-      "positions": {
-        "1": {
-          "winCount": 181,
-          "matchCount": 464,
-          "winrate": 0.39009
-        },
-        "2": {
-          "winCount": 841,
-          "matchCount": 1778,
-          "winrate": 0.473
-        },
-        "3": {
-          "winCount": 123,
-          "matchCount": 260,
-          "winrate": 0.47308
-        },
-        "4": {
-          "winCount": 609,
-          "matchCount": 1214,
-          "winrate": 0.50165
-        },
-        "5": {
-          "winCount": 1696,
-          "matchCount": 3392,
-          "winrate": 0.5
-        }
-      }
-    },
-    "92": {
-      "winCount": 1361,
-      "matchCount": 2548,
-      "winrate": 0.53414,
-      "positions": {
-        "1": {
-          "winCount": 14,
-          "matchCount": 36,
-          "winrate": 0.38889
-        },
-        "2": {
-          "winCount": 552,
-          "matchCount": 961,
-          "winrate": 0.5744
-        },
-        "3": {
-          "winCount": 506,
-          "matchCount": 974,
-          "winrate": 0.51951
-        },
-        "4": {
-          "winCount": 180,
-          "matchCount": 347,
-          "winrate": 0.51873
-        },
-        "5": {
-          "winCount": 93,
-          "matchCount": 187,
-          "winrate": 0.49733
-        }
-      }
-    },
-    "93": {
-      "winCount": 4924,
-      "matchCount": 9871,
-      "winrate": 0.49883,
-      "positions": {
-        "1": {
-          "winCount": 3566,
-          "matchCount": 7223,
-          "winrate": 0.4937
-        },
-        "2": {
-          "winCount": 629,
-          "matchCount": 1184,
-          "winrate": 0.53125
-        },
-        "3": {
-          "winCount": 288,
-          "matchCount": 563,
-          "winrate": 0.51155
-        },
-        "4": {
-          "winCount": 171,
-          "matchCount": 350,
-          "winrate": 0.48857
-        },
-        "5": {
-          "winCount": 145,
-          "matchCount": 304,
-          "winrate": 0.47697
-        }
-      }
-    },
-    "94": {
-      "winCount": 1777,
-      "matchCount": 3496,
-      "winrate": 0.5083,
-      "positions": {
-        "1": {
-          "winCount": 1525,
-          "matchCount": 2958,
-          "winrate": 0.51555
-        },
-        "2": {
-          "winCount": 92,
-          "matchCount": 193,
-          "winrate": 0.47668
-        },
-        "3": {
-          "winCount": 79,
-          "matchCount": 176,
-          "winrate": 0.44886
-        },
-        "4": {
-          "winCount": 26,
-          "matchCount": 55,
-          "winrate": 0.47273
-        },
-        "5": {
-          "winCount": 16,
-          "matchCount": 46,
-          "winrate": 0.34783
-        }
-      }
-    },
-    "95": {
-      "winCount": 1197,
-      "matchCount": 2289,
-      "winrate": 0.52294,
-      "positions": {
-        "1": {
-          "winCount": 1014,
-          "matchCount": 1893,
-          "winrate": 0.53566
-        },
-        "2": {
-          "winCount": 58,
-          "matchCount": 114,
-          "winrate": 0.50877
-        },
-        "3": {
-          "winCount": 68,
-          "matchCount": 153,
-          "winrate": 0.44444
-        },
-        "4": {
-          "winCount": 21,
-          "matchCount": 42,
-          "winrate": 0.5
-        },
-        "5": {
-          "winCount": 12,
-          "matchCount": 31,
-          "winrate": 0.3871
-        }
-      }
-    },
-    "96": {
-      "winCount": 4025,
-      "matchCount": 7950,
-      "winrate": 0.50629,
-      "positions": {
-        "1": {
-          "winCount": 27,
-          "matchCount": 47,
-          "winrate": 0.57447
-        },
-        "2": {
-          "winCount": 78,
-          "matchCount": 142,
-          "winrate": 0.5493
-        },
-        "3": {
-          "winCount": 3715,
-          "matchCount": 7341,
-          "winrate": 0.50606
-        },
-        "4": {
-          "winCount": 79,
-          "matchCount": 171,
-          "winrate": 0.46199
-        },
-        "5": {
-          "winCount": 42,
-          "matchCount": 89,
-          "winrate": 0.47191
-        }
-      }
-    },
-    "97": {
-      "winCount": 8049,
-      "matchCount": 16307,
-      "winrate": 0.49359,
-      "positions": {
-        "1": {
-          "winCount": 130,
-          "matchCount": 316,
-          "winrate": 0.41139
-        },
-        "2": {
-          "winCount": 1403,
-          "matchCount": 2717,
-          "winrate": 0.51638
-        },
-        "3": {
-          "winCount": 4123,
-          "matchCount": 8456,
-          "winrate": 0.48758
-        },
-        "4": {
-          "winCount": 1336,
-          "matchCount": 2704,
-          "winrate": 0.49408
-        },
-        "5": {
-          "winCount": 909,
-          "matchCount": 1816,
-          "winrate": 0.50055
-        }
-      }
-    },
-    "98": {
-      "winCount": 2549,
-      "matchCount": 5466,
-      "winrate": 0.46634,
-      "positions": {
-        "1": {
-          "winCount": 28,
-          "matchCount": 60,
-          "winrate": 0.46667
-        },
-        "2": {
-          "winCount": 253,
-          "matchCount": 543,
-          "winrate": 0.46593
-        },
-        "3": {
-          "winCount": 2157,
-          "matchCount": 4619,
-          "winrate": 0.46698
-        },
-        "4": {
-          "winCount": 53,
-          "matchCount": 115,
-          "winrate": 0.46087
-        },
-        "5": {
-          "winCount": 16,
-          "matchCount": 35,
-          "winrate": 0.45714
-        }
-      }
-    },
-    "99": {
-      "winCount": 2985,
-      "matchCount": 6044,
-      "winrate": 0.49388,
-      "positions": {
-        "1": {
-          "winCount": 67,
-          "matchCount": 159,
-          "winrate": 0.42138
-        },
-        "2": {
-          "winCount": 104,
-          "matchCount": 204,
-          "winrate": 0.5098
-        },
-        "3": {
-          "winCount": 2628,
-          "matchCount": 5307,
-          "winrate": 0.4952
-        },
-        "4": {
-          "winCount": 71,
-          "matchCount": 139,
-          "winrate": 0.51079
-        },
-        "5": {
-          "winCount": 42,
-          "matchCount": 94,
-          "winrate": 0.44681
-        }
-      }
-    },
-    "100": {
-      "winCount": 3935,
-      "matchCount": 8185,
-      "winrate": 0.48076,
-      "positions": {
-        "1": {
-          "winCount": 46,
-          "matchCount": 91,
-          "winrate": 0.50549
-        },
-        "2": {
-          "winCount": 199,
-          "matchCount": 410,
-          "winrate": 0.48537
-        },
-        "3": {
-          "winCount": 321,
-          "matchCount": 664,
-          "winrate": 0.48343
-        },
-        "4": {
-          "winCount": 1377,
-          "matchCount": 2873,
-          "winrate": 0.47929
-        },
-        "5": {
-          "winCount": 1907,
-          "matchCount": 3974,
-          "winrate": 0.47987
-        }
-      }
-    },
-    "101": {
-      "winCount": 6022,
-      "matchCount": 12123,
-      "winrate": 0.49674,
-      "positions": {
-        "1": {
-          "winCount": 16,
-          "matchCount": 29,
-          "winrate": 0.55172
-        },
-        "2": {
-          "winCount": 1059,
-          "matchCount": 2027,
-          "winrate": 0.52245
-        },
-        "3": {
-          "winCount": 63,
-          "matchCount": 139,
-          "winrate": 0.45324
-        },
-        "4": {
-          "winCount": 2959,
-          "matchCount": 5991,
-          "winrate": 0.49391
-        },
-        "5": {
-          "winCount": 1806,
-          "matchCount": 3696,
-          "winrate": 0.48864
-        }
-      }
-    },
-    "102": {
-      "winCount": 1981,
-      "matchCount": 3766,
-      "winrate": 0.52602,
-      "positions": {
-        "1": {
-          "winCount": 135,
-          "matchCount": 285,
-          "winrate": 0.47368
-        },
-        "2": {
-          "winCount": 21,
-          "matchCount": 52,
-          "winrate": 0.40385
-        },
-        "3": {
-          "winCount": 501,
-          "matchCount": 936,
-          "winrate": 0.53526
-        },
-        "4": {
-          "winCount": 434,
-          "matchCount": 850,
-          "winrate": 0.51059
-        },
-        "5": {
-          "winCount": 848,
-          "matchCount": 1555,
-          "winrate": 0.54534
-        }
-      }
-    },
-    "103": {
-      "winCount": 718,
-      "matchCount": 1324,
-      "winrate": 0.5423,
-      "positions": {
-        "1": {
-          "winCount": 26,
-          "matchCount": 50,
-          "winrate": 0.52
-        },
-        "2": {
-          "winCount": 18,
-          "matchCount": 38,
-          "winrate": 0.47368
-        },
-        "3": {
-          "winCount": 278,
-          "matchCount": 529,
-          "winrate": 0.52552
-        },
-        "4": {
-          "winCount": 181,
-          "matchCount": 310,
-          "winrate": 0.58387
-        },
-        "5": {
-          "winCount": 199,
-          "matchCount": 363,
-          "winrate": 0.54821
-        }
-      }
-    },
-    "104": {
-      "winCount": 7826,
-      "matchCount": 14765,
-      "winrate": 0.53004,
-      "positions": {
-        "1": {
-          "winCount": 137,
-          "matchCount": 291,
-          "winrate": 0.47079
-        },
-        "2": {
-          "winCount": 272,
-          "matchCount": 551,
-          "winrate": 0.49365
-        },
-        "3": {
-          "winCount": 7199,
-          "matchCount": 13483,
-          "winrate": 0.53393
-        },
-        "4": {
-          "winCount": 91,
-          "matchCount": 198,
-          "winrate": 0.4596
-        },
-        "5": {
-          "winCount": 30,
-          "matchCount": 72,
-          "winrate": 0.41667
-        }
-      }
-    },
-    "105": {
-      "winCount": 8468,
-      "matchCount": 17147,
-      "winrate": 0.49385,
-      "positions": {
-        "1": {
-          "winCount": 36,
-          "matchCount": 93,
-          "winrate": 0.3871
-        },
-        "2": {
-          "winCount": 767,
-          "matchCount": 1689,
-          "winrate": 0.45411
-        },
-        "3": {
-          "winCount": 140,
-          "matchCount": 326,
-          "winrate": 0.42945
-        },
-        "4": {
-          "winCount": 4467,
-          "matchCount": 8828,
-          "winrate": 0.506
-        },
-        "5": {
-          "winCount": 2925,
-          "matchCount": 5927,
-          "winrate": 0.4935
-        }
-      }
-    },
-    "106": {
-      "winCount": 4887,
-      "matchCount": 9956,
-      "winrate": 0.49086,
-      "positions": {
-        "1": {
-          "winCount": 92,
-          "matchCount": 243,
-          "winrate": 0.3786
-        },
-        "2": {
-          "winCount": 4534,
-          "matchCount": 9140,
-          "winrate": 0.49606
-        },
-        "3": {
-          "winCount": 114,
-          "matchCount": 258,
-          "winrate": 0.44186
-        },
-        "4": {
-          "winCount": 39,
-          "matchCount": 88,
-          "winrate": 0.44318
-        },
-        "5": {
-          "winCount": 32,
-          "matchCount": 68,
-          "winrate": 0.47059
-        }
-      }
-    },
-    "107": {
-      "winCount": 4369,
-      "matchCount": 8859,
-      "winrate": 0.49317,
-      "positions": {
-        "1": {
-          "winCount": 25,
-          "matchCount": 54,
-          "winrate": 0.46296
-        },
-        "2": {
-          "winCount": 1978,
-          "matchCount": 3916,
-          "winrate": 0.50511
-        },
-        "3": {
-          "winCount": 731,
-          "matchCount": 1518,
-          "winrate": 0.48155
-        },
-        "4": {
-          "winCount": 1137,
-          "matchCount": 2334,
-          "winrate": 0.48715
-        },
-        "5": {
-          "winCount": 407,
-          "matchCount": 856,
-          "winrate": 0.47547
-        }
-      }
-    },
-    "108": {
-      "winCount": 4983,
-      "matchCount": 10243,
-      "winrate": 0.48648,
-      "positions": {
-        "1": {
-          "winCount": 22,
-          "matchCount": 47,
-          "winrate": 0.46809
-        },
-        "2": {
-          "winCount": 97,
-          "matchCount": 204,
-          "winrate": 0.47549
-        },
-        "3": {
-          "winCount": 4524,
-          "matchCount": 9347,
-          "winrate": 0.48401
-        },
-        "4": {
-          "winCount": 141,
-          "matchCount": 285,
-          "winrate": 0.49474
-        },
-        "5": {
-          "winCount": 72,
-          "matchCount": 141,
-          "winrate": 0.51064
-        }
-      }
-    },
-    "109": {
-      "winCount": 3183,
-      "matchCount": 6534,
-      "winrate": 0.48714,
-      "positions": {
-        "1": {
-          "winCount": 2947,
-          "matchCount": 6048,
-          "winrate": 0.48727
-        },
-        "2": {
-          "winCount": 29,
-          "matchCount": 63,
-          "winrate": 0.46032
-        },
-        "3": {
-          "winCount": 74,
-          "matchCount": 139,
-          "winrate": 0.53237
-        },
-        "4": {
-          "winCount": 41,
-          "matchCount": 95,
-          "winrate": 0.43158
-        },
-        "5": {
-          "winCount": 41,
-          "matchCount": 88,
-          "winrate": 0.46591
-        }
-      }
-    },
-    "110": {
-      "winCount": 3953,
-      "matchCount": 7633,
-      "winrate": 0.51788,
-      "positions": {
-        "1": {
-          "winCount": 11,
-          "matchCount": 29,
-          "winrate": 0.37931
-        },
-        "2": {
-          "winCount": 742,
-          "matchCount": 1406,
-          "winrate": 0.52774
-        },
-        "3": {
-          "winCount": 948,
-          "matchCount": 1854,
-          "winrate": 0.51133
-        },
-        "4": {
-          "winCount": 1420,
-          "matchCount": 2734,
-          "winrate": 0.51939
-        },
-        "5": {
-          "winCount": 763,
-          "matchCount": 1468,
-          "winrate": 0.51975
-        }
-      }
-    },
-    "111": {
-      "winCount": 2782,
-      "matchCount": 5491,
-      "winrate": 0.50665,
-      "positions": {
-        "1": {
-          "winCount": 4,
-          "matchCount": 16,
-          "winrate": 0.25
-        },
-        "2": {
-          "winCount": 74,
-          "matchCount": 189,
-          "winrate": 0.39153
-        },
-        "3": {
-          "winCount": 16,
-          "matchCount": 35,
-          "winrate": 0.45714
-        },
-        "4": {
-          "winCount": 584,
-          "matchCount": 1106,
-          "winrate": 0.52803
-        },
-        "5": {
-          "winCount": 2057,
-          "matchCount": 4044,
-          "winrate": 0.50865
-        }
-      }
-    },
-    "112": {
-      "winCount": 4172,
-      "matchCount": 8253,
-      "winrate": 0.50551,
-      "positions": {
-        "1": {
-          "winCount": 13,
-          "matchCount": 38,
-          "winrate": 0.34211
-        },
-        "2": {
-          "winCount": 159,
-          "matchCount": 285,
-          "winrate": 0.55789
-        },
-        "3": {
-          "winCount": 131,
-          "matchCount": 235,
-          "winrate": 0.55745
-        },
-        "4": {
-          "winCount": 1071,
-          "matchCount": 2105,
-          "winrate": 0.50879
-        },
-        "5": {
-          "winCount": 2724,
-          "matchCount": 5459,
-          "winrate": 0.49899
-        }
-      }
-    },
-    "113": {
-      "winCount": 3812,
-      "matchCount": 7271,
-      "winrate": 0.52427,
-      "positions": {
-        "1": {
-          "winCount": 191,
-          "matchCount": 409,
-          "winrate": 0.46699
-        },
-        "2": {
-          "winCount": 3429,
-          "matchCount": 6440,
-          "winrate": 0.53245
-        },
-        "3": {
-          "winCount": 39,
-          "matchCount": 91,
-          "winrate": 0.42857
-        },
-        "4": {
-          "winCount": 52,
-          "matchCount": 134,
-          "winrate": 0.38806
-        },
-        "5": {
-          "winCount": 54,
-          "matchCount": 111,
-          "winrate": 0.48649
-        }
-      }
-    },
-    "114": {
-      "winCount": 2121,
-      "matchCount": 4564,
-      "winrate": 0.46472,
-      "positions": {
-        "1": {
-          "winCount": 1033,
-          "matchCount": 2180,
-          "winrate": 0.47385
-        },
-        "2": {
-          "winCount": 666,
-          "matchCount": 1384,
-          "winrate": 0.48121
-        },
-        "3": {
-          "winCount": 166,
-          "matchCount": 356,
-          "winrate": 0.46629
-        },
-        "4": {
-          "winCount": 112,
-          "matchCount": 306,
-          "winrate": 0.36601
-        },
-        "5": {
-          "winCount": 45,
-          "matchCount": 137,
-          "winrate": 0.32847
-        }
-      }
-    },
-    "119": {
-      "winCount": 3616,
-      "matchCount": 7472,
-      "winrate": 0.48394,
-      "positions": {
-        "1": {
-          "winCount": 17,
-          "matchCount": 58,
-          "winrate": 0.2931
-        },
-        "2": {
-          "winCount": 149,
-          "matchCount": 341,
-          "winrate": 0.43695
-        },
-        "3": {
-          "winCount": 41,
-          "matchCount": 87,
-          "winrate": 0.47126
-        },
-        "4": {
-          "winCount": 1739,
-          "matchCount": 3556,
-          "winrate": 0.48903
-        },
-        "5": {
-          "winCount": 1608,
-          "matchCount": 3303,
-          "winrate": 0.48683
-        }
-      }
-    },
-    "120": {
-      "winCount": 2154,
-      "matchCount": 4607,
-      "winrate": 0.46755,
+      "winCount": 1416,
+      "matchCount": 2964,
+      "winrate": 0.47773,
       "positions": {
         "1": {
           "winCount": 18,
@@ -3666,287 +1810,1375 @@
           "winrate": 0.40909
         },
         "2": {
-          "winCount": 1414,
-          "matchCount": 2959,
-          "winrate": 0.47786
-        },
-        "3": {
-          "winCount": 636,
-          "matchCount": 1384,
-          "winrate": 0.45954
-        },
-        "4": {
-          "winCount": 26,
-          "matchCount": 84,
-          "winrate": 0.30952
-        },
-        "5": {
-          "winCount": 16,
-          "matchCount": 44,
-          "winrate": 0.36364
-        }
-      }
-    },
-    "121": {
-      "winCount": 5069,
-      "matchCount": 9832,
-      "winrate": 0.51556,
-      "positions": {
-        "1": {
-          "winCount": 12,
-          "matchCount": 26,
-          "winrate": 0.46154
-        },
-        "2": {
-          "winCount": 109,
-          "matchCount": 228,
-          "winrate": 0.47807
-        },
-        "3": {
-          "winCount": 35,
-          "matchCount": 71,
-          "winrate": 0.49296
-        },
-        "4": {
-          "winCount": 2125,
-          "matchCount": 4105,
-          "winrate": 0.51766
-        },
-        "5": {
-          "winCount": 2702,
-          "matchCount": 5242,
-          "winrate": 0.51545
-        }
-      }
-    },
-    "123": {
-      "winCount": 7729,
-      "matchCount": 16324,
-      "winrate": 0.47347,
-      "positions": {
-        "1": {
-          "winCount": 60,
-          "matchCount": 138,
-          "winrate": 0.43478
-        },
-        "2": {
-          "winCount": 139,
-          "matchCount": 347,
-          "winrate": 0.40058
-        },
-        "3": {
-          "winCount": 73,
-          "matchCount": 183,
-          "winrate": 0.39891
-        },
-        "4": {
-          "winCount": 4083,
-          "matchCount": 8506,
-          "winrate": 0.48001
-        },
-        "5": {
-          "winCount": 3250,
-          "matchCount": 6898,
-          "winrate": 0.47115
-        }
-      }
-    },
-    "126": {
-      "winCount": 2692,
-      "matchCount": 5483,
-      "winrate": 0.49097,
-      "positions": {
-        "1": {
-          "winCount": 68,
-          "matchCount": 148,
-          "winrate": 0.45946
-        },
-        "2": {
-          "winCount": 2219,
-          "matchCount": 4449,
-          "winrate": 0.49876
-        },
-        "3": {
-          "winCount": 218,
-          "matchCount": 488,
-          "winrate": 0.44672
-        },
-        "4": {
-          "winCount": 100,
-          "matchCount": 199,
-          "winrate": 0.50251
-        },
-        "5": {
-          "winCount": 44,
-          "matchCount": 99,
-          "winrate": 0.44444
-        }
-      }
-    },
-    "128": {
-      "winCount": 7042,
-      "matchCount": 14248,
-      "winrate": 0.49424,
-      "positions": {
-        "1": {
-          "winCount": 79,
-          "matchCount": 174,
-          "winrate": 0.45402
-        },
-        "2": {
-          "winCount": 1723,
-          "matchCount": 3384,
-          "winrate": 0.50916
-        },
-        "3": {
-          "winCount": 537,
-          "matchCount": 1149,
-          "winrate": 0.46736
-        },
-        "4": {
-          "winCount": 2604,
-          "matchCount": 5327,
-          "winrate": 0.48883
-        },
-        "5": {
-          "winCount": 1983,
-          "matchCount": 3957,
-          "winrate": 0.50114
-        }
-      }
-    },
-    "129": {
-      "winCount": 2590,
-      "matchCount": 5467,
-      "winrate": 0.47375,
-      "positions": {
-        "1": {
-          "winCount": 18,
-          "matchCount": 50,
-          "winrate": 0.36
-        },
-        "2": {
-          "winCount": 86,
-          "matchCount": 172,
+          "winCount": 149,
+          "matchCount": 298,
           "winrate": 0.5
         },
         "3": {
-          "winCount": 2347,
-          "matchCount": 4916,
-          "winrate": 0.47742
+          "winCount": 150,
+          "matchCount": 305,
+          "winrate": 0.4918
         },
         "4": {
-          "winCount": 51,
-          "matchCount": 147,
-          "winrate": 0.34694
+          "winCount": 513,
+          "matchCount": 1113,
+          "winrate": 0.46092
         },
         "5": {
-          "winCount": 36,
-          "matchCount": 77,
-          "winrate": 0.46753
+          "winCount": 579,
+          "matchCount": 1192,
+          "winrate": 0.48574
         }
       }
     },
-    "131": {
-      "winCount": 3497,
-      "matchCount": 7234,
-      "winrate": 0.48341,
+    "59": {
+      "winCount": 1777,
+      "matchCount": 3952,
+      "winrate": 0.44965,
       "positions": {
         "1": {
-          "winCount": 1,
-          "matchCount": 10,
-          "winrate": 0.1
+          "winCount": 68,
+          "matchCount": 157,
+          "winrate": 0.43312
         },
         "2": {
-          "winCount": 10,
-          "matchCount": 26,
-          "winrate": 0.38462
+          "winCount": 1050,
+          "matchCount": 2229,
+          "winrate": 0.47106
         },
         "3": {
-          "winCount": 20,
-          "matchCount": 36,
-          "winrate": 0.55556
+          "winCount": 366,
+          "matchCount": 858,
+          "winrate": 0.42657
         },
         "4": {
-          "winCount": 1280,
-          "matchCount": 2675,
-          "winrate": 0.4785
+          "winCount": 150,
+          "matchCount": 361,
+          "winrate": 0.41551
         },
         "5": {
-          "winCount": 2122,
-          "matchCount": 4368,
-          "winrate": 0.48581
+          "winCount": 138,
+          "matchCount": 331,
+          "winrate": 0.41692
         }
       }
     },
-    "135": {
-      "winCount": 6493,
-      "matchCount": 12633,
-      "winrate": 0.51397,
+    "60": {
+      "winCount": 5796,
+      "matchCount": 11052,
+      "winrate": 0.52443,
+      "positions": {
+        "1": {
+          "winCount": 45,
+          "matchCount": 100,
+          "winrate": 0.45
+        },
+        "2": {
+          "winCount": 175,
+          "matchCount": 347,
+          "winrate": 0.50432
+        },
+        "3": {
+          "winCount": 5482,
+          "matchCount": 10429,
+          "winrate": 0.52565
+        },
+        "4": {
+          "winCount": 55,
+          "matchCount": 111,
+          "winrate": 0.4955
+        },
+        "5": {
+          "winCount": 21,
+          "matchCount": 36,
+          "winrate": 0.58333
+        }
+      }
+    },
+    "61": {
+      "winCount": 1473,
+      "matchCount": 2941,
+      "winrate": 0.50085,
+      "positions": {
+        "1": {
+          "winCount": 175,
+          "matchCount": 347,
+          "winrate": 0.50432
+        },
+        "2": {
+          "winCount": 1072,
+          "matchCount": 2067,
+          "winrate": 0.51863
+        },
+        "3": {
+          "winCount": 200,
+          "matchCount": 450,
+          "winrate": 0.44444
+        },
+        "4": {
+          "winCount": 13,
+          "matchCount": 40,
+          "winrate": 0.325
+        },
+        "5": {
+          "winCount": 7,
+          "matchCount": 27,
+          "winrate": 0.25926
+        }
+      }
+    },
+    "62": {
+      "winCount": 4948,
+      "matchCount": 9369,
+      "winrate": 0.52812,
       "positions": {
         "1": {
           "winCount": 41,
-          "matchCount": 89,
-          "winrate": 0.46067
+          "matchCount": 104,
+          "winrate": 0.39423
         },
         "2": {
-          "winCount": 233,
-          "matchCount": 438,
-          "winrate": 0.53196
+          "winCount": 114,
+          "matchCount": 261,
+          "winrate": 0.43678
         },
         "3": {
-          "winCount": 5873,
-          "matchCount": 11420,
-          "winrate": 0.51427
+          "winCount": 91,
+          "matchCount": 226,
+          "winrate": 0.40265
         },
         "4": {
-          "winCount": 180,
-          "matchCount": 354,
-          "winrate": 0.50847
+          "winCount": 3823,
+          "matchCount": 7073,
+          "winrate": 0.54051
         },
         "5": {
-          "winCount": 93,
-          "matchCount": 190,
+          "winCount": 863,
+          "matchCount": 1674,
+          "winrate": 0.51553
+        }
+      }
+    },
+    "63": {
+      "winCount": 2759,
+      "matchCount": 5915,
+      "winrate": 0.46644,
+      "positions": {
+        "1": {
+          "winCount": 1010,
+          "matchCount": 2207,
+          "winrate": 0.45763
+        },
+        "2": {
+          "winCount": 231,
+          "matchCount": 533,
+          "winrate": 0.4334
+        },
+        "3": {
+          "winCount": 247,
+          "matchCount": 544,
+          "winrate": 0.45404
+        },
+        "4": {
+          "winCount": 889,
+          "matchCount": 1840,
+          "winrate": 0.48315
+        },
+        "5": {
+          "winCount": 373,
+          "matchCount": 772,
+          "winrate": 0.48316
+        }
+      }
+    },
+    "64": {
+      "winCount": 4726,
+      "matchCount": 9590,
+      "winrate": 0.49281,
+      "positions": {
+        "1": {
+          "winCount": 40,
+          "matchCount": 113,
+          "winrate": 0.35398
+        },
+        "2": {
+          "winCount": 298,
+          "matchCount": 583,
+          "winrate": 0.51115
+        },
+        "3": {
+          "winCount": 105,
+          "matchCount": 217,
+          "winrate": 0.48387
+        },
+        "4": {
+          "winCount": 1548,
+          "matchCount": 3087,
+          "winrate": 0.50146
+        },
+        "5": {
+          "winCount": 2718,
+          "matchCount": 5553,
           "winrate": 0.48947
         }
       }
     },
-    "136": {
-      "winCount": 2551,
-      "matchCount": 5073,
-      "winrate": 0.50286,
+    "65": {
+      "winCount": 638,
+      "matchCount": 1475,
+      "winrate": 0.43254,
       "positions": {
         "1": {
-          "winCount": 140,
-          "matchCount": 290,
-          "winrate": 0.48276
+          "winCount": 6,
+          "matchCount": 21,
+          "winrate": 0.28571
         },
         "2": {
-          "winCount": 1025,
-          "matchCount": 1866,
-          "winrate": 0.5493
+          "winCount": 198,
+          "matchCount": 425,
+          "winrate": 0.46588
         },
         "3": {
-          "winCount": 446,
-          "matchCount": 820,
-          "winrate": 0.5439
+          "winCount": 148,
+          "matchCount": 331,
+          "winrate": 0.44713
         },
         "4": {
-          "winCount": 448,
-          "matchCount": 1028,
-          "winrate": 0.4358
+          "winCount": 174,
+          "matchCount": 438,
+          "winrate": 0.39726
         },
         "5": {
-          "winCount": 444,
-          "matchCount": 973,
-          "winrate": 0.45632
+          "winCount": 108,
+          "matchCount": 254,
+          "winrate": 0.4252
         }
       }
     },
-    "137": {
-      "winCount": 1729,
-      "matchCount": 3338,
-      "winrate": 0.51797,
+    "66": {
+      "winCount": 367,
+      "matchCount": 838,
+      "winrate": 0.43795,
+      "positions": {
+        "1": {
+          "winCount": 2,
+          "matchCount": 13,
+          "winrate": 0.15385
+        },
+        "2": {
+          "winCount": 8,
+          "matchCount": 26,
+          "winrate": 0.30769
+        },
+        "3": {
+          "winCount": 8,
+          "matchCount": 25,
+          "winrate": 0.32
+        },
+        "4": {
+          "winCount": 83,
+          "matchCount": 175,
+          "winrate": 0.47429
+        },
+        "5": {
+          "winCount": 265,
+          "matchCount": 593,
+          "winrate": 0.44688
+        }
+      }
+    },
+    "67": {
+      "winCount": 6868,
+      "matchCount": 12879,
+      "winrate": 0.53327,
+      "positions": {
+        "1": {
+          "winCount": 6473,
+          "matchCount": 12129,
+          "winrate": 0.53368
+        },
+        "2": {
+          "winCount": 117,
+          "matchCount": 213,
+          "winrate": 0.5493
+        },
+        "3": {
+          "winCount": 195,
+          "matchCount": 344,
+          "winrate": 0.56686
+        },
+        "4": {
+          "winCount": 30,
+          "matchCount": 63,
+          "winrate": 0.47619
+        },
+        "5": {
+          "winCount": 34,
+          "matchCount": 83,
+          "winrate": 0.40964
+        }
+      }
+    },
+    "68": {
+      "winCount": 4016,
+      "matchCount": 7703,
+      "winrate": 0.52136,
+      "positions": {
+        "1": {
+          "winCount": 18,
+          "matchCount": 46,
+          "winrate": 0.3913
+        },
+        "2": {
+          "winCount": 177,
+          "matchCount": 351,
+          "winrate": 0.50427
+        },
+        "3": {
+          "winCount": 30,
+          "matchCount": 75,
+          "winrate": 0.4
+        },
+        "4": {
+          "winCount": 1466,
+          "matchCount": 2740,
+          "winrate": 0.53504
+        },
+        "5": {
+          "winCount": 2301,
+          "matchCount": 4452,
+          "winrate": 0.51685
+        }
+      }
+    },
+    "69": {
+      "winCount": 2809,
+      "matchCount": 5954,
+      "winrate": 0.47178,
+      "positions": {
+        "1": {
+          "winCount": 69,
+          "matchCount": 140,
+          "winrate": 0.49286
+        },
+        "2": {
+          "winCount": 71,
+          "matchCount": 165,
+          "winrate": 0.4303
+        },
+        "3": {
+          "winCount": 2549,
+          "matchCount": 5382,
+          "winrate": 0.47362
+        },
+        "4": {
+          "winCount": 84,
+          "matchCount": 181,
+          "winrate": 0.46409
+        },
+        "5": {
+          "winCount": 28,
+          "matchCount": 69,
+          "winrate": 0.4058
+        }
+      }
+    },
+    "70": {
+      "winCount": 4285,
+      "matchCount": 8663,
+      "winrate": 0.49463,
+      "positions": {
+        "1": {
+          "winCount": 3742,
+          "matchCount": 7619,
+          "winrate": 0.49114
+        },
+        "2": {
+          "winCount": 173,
+          "matchCount": 327,
+          "winrate": 0.52905
+        },
+        "3": {
+          "winCount": 294,
+          "matchCount": 544,
+          "winrate": 0.54044
+        },
+        "4": {
+          "winCount": 32,
+          "matchCount": 64,
+          "winrate": 0.5
+        },
+        "5": {
+          "winCount": 20,
+          "matchCount": 65,
+          "winrate": 0.30769
+        }
+      }
+    },
+    "71": {
+      "winCount": 9848,
+      "matchCount": 18859,
+      "winrate": 0.52219,
+      "positions": {
+        "1": {
+          "winCount": 46,
+          "matchCount": 107,
+          "winrate": 0.42991
+        },
+        "2": {
+          "winCount": 335,
+          "matchCount": 674,
+          "winrate": 0.49703
+        },
+        "3": {
+          "winCount": 2113,
+          "matchCount": 4187,
+          "winrate": 0.50466
+        },
+        "4": {
+          "winCount": 6045,
+          "matchCount": 11367,
+          "winrate": 0.5318
+        },
+        "5": {
+          "winCount": 1283,
+          "matchCount": 2467,
+          "winrate": 0.52006
+        }
+      }
+    },
+    "72": {
+      "winCount": 1401,
+      "matchCount": 3083,
+      "winrate": 0.45443,
+      "positions": {
+        "1": {
+          "winCount": 379,
+          "matchCount": 927,
+          "winrate": 0.40885
+        },
+        "2": {
+          "winCount": 93,
+          "matchCount": 229,
+          "winrate": 0.40611
+        },
+        "3": {
+          "winCount": 72,
+          "matchCount": 175,
+          "winrate": 0.41143
+        },
+        "4": {
+          "winCount": 602,
+          "matchCount": 1218,
+          "winrate": 0.49425
+        },
+        "5": {
+          "winCount": 248,
+          "matchCount": 520,
+          "winrate": 0.47692
+        }
+      }
+    },
+    "73": {
+      "winCount": 1489,
+      "matchCount": 3160,
+      "winrate": 0.4712,
+      "positions": {
+        "1": {
+          "winCount": 449,
+          "matchCount": 1002,
+          "winrate": 0.4481
+        },
+        "2": {
+          "winCount": 217,
+          "matchCount": 451,
+          "winrate": 0.48115
+        },
+        "3": {
+          "winCount": 356,
+          "matchCount": 758,
+          "winrate": 0.46966
+        },
+        "4": {
+          "winCount": 296,
+          "matchCount": 594,
+          "winrate": 0.49832
+        },
+        "5": {
+          "winCount": 160,
+          "matchCount": 336,
+          "winrate": 0.47619
+        }
+      }
+    },
+    "74": {
+      "winCount": 14584,
+      "matchCount": 29036,
+      "winrate": 0.50227,
+      "positions": {
+        "1": {
+          "winCount": 72,
+          "matchCount": 187,
+          "winrate": 0.38503
+        },
+        "2": {
+          "winCount": 10368,
+          "matchCount": 20336,
+          "winrate": 0.50983
+        },
+        "3": {
+          "winCount": 246,
+          "matchCount": 519,
+          "winrate": 0.47399
+        },
+        "4": {
+          "winCount": 2609,
+          "matchCount": 5297,
+          "winrate": 0.49254
+        },
+        "5": {
+          "winCount": 1237,
+          "matchCount": 2593,
+          "winrate": 0.47705
+        }
+      }
+    },
+    "75": {
+      "winCount": 5147,
+      "matchCount": 10151,
+      "winrate": 0.50704,
+      "positions": {
+        "1": {
+          "winCount": 93,
+          "matchCount": 187,
+          "winrate": 0.49733
+        },
+        "2": {
+          "winCount": 583,
+          "matchCount": 1189,
+          "winrate": 0.49033
+        },
+        "3": {
+          "winCount": 105,
+          "matchCount": 218,
+          "winrate": 0.48165
+        },
+        "4": {
+          "winCount": 2136,
+          "matchCount": 4221,
+          "winrate": 0.50604
+        },
+        "5": {
+          "winCount": 2215,
+          "matchCount": 4297,
+          "winrate": 0.51548
+        }
+      }
+    },
+    "76": {
+      "winCount": 5603,
+      "matchCount": 10390,
+      "winrate": 0.53927,
+      "positions": {
+        "1": {
+          "winCount": 50,
+          "matchCount": 105,
+          "winrate": 0.47619
+        },
+        "2": {
+          "winCount": 5319,
+          "matchCount": 9775,
+          "winrate": 0.54414
+        },
+        "3": {
+          "winCount": 95,
+          "matchCount": 199,
+          "winrate": 0.47739
+        },
+        "4": {
+          "winCount": 95,
+          "matchCount": 200,
+          "winrate": 0.475
+        },
+        "5": {
+          "winCount": 28,
+          "matchCount": 84,
+          "winrate": 0.33333
+        }
+      }
+    },
+    "77": {
+      "winCount": 950,
+      "matchCount": 1841,
+      "winrate": 0.51602,
+      "positions": {
+        "1": {
+          "winCount": 27,
+          "matchCount": 65,
+          "winrate": 0.41538
+        },
+        "2": {
+          "winCount": 125,
+          "matchCount": 209,
+          "winrate": 0.59809
+        },
+        "3": {
+          "winCount": 767,
+          "matchCount": 1493,
+          "winrate": 0.51373
+        },
+        "4": {
+          "winCount": 19,
+          "matchCount": 44,
+          "winrate": 0.43182
+        },
+        "5": {
+          "winCount": 7,
+          "matchCount": 20,
+          "winrate": 0.35
+        }
+      }
+    },
+    "78": {
+      "winCount": 1230,
+      "matchCount": 2373,
+      "winrate": 0.51833,
+      "positions": {
+        "1": {
+          "winCount": 17,
+          "matchCount": 41,
+          "winrate": 0.41463
+        },
+        "2": {
+          "winCount": 91,
+          "matchCount": 176,
+          "winrate": 0.51705
+        },
+        "3": {
+          "winCount": 1038,
+          "matchCount": 1997,
+          "winrate": 0.51978
+        },
+        "4": {
+          "winCount": 45,
+          "matchCount": 93,
+          "winrate": 0.48387
+        },
+        "5": {
+          "winCount": 33,
+          "matchCount": 55,
+          "winrate": 0.6
+        }
+      }
+    },
+    "79": {
+      "winCount": 1349,
+      "matchCount": 2938,
+      "winrate": 0.45916,
+      "positions": {
+        "1": {
+          "winCount": 9,
+          "matchCount": 17,
+          "winrate": 0.52941
+        },
+        "2": {
+          "winCount": 48,
+          "matchCount": 106,
+          "winrate": 0.45283
+        },
+        "3": {
+          "winCount": 19,
+          "matchCount": 44,
+          "winrate": 0.43182
+        },
+        "4": {
+          "winCount": 543,
+          "matchCount": 1126,
+          "winrate": 0.48224
+        },
+        "5": {
+          "winCount": 727,
+          "matchCount": 1634,
+          "winrate": 0.44492
+        }
+      }
+    },
+    "80": {
+      "winCount": 2180,
+      "matchCount": 4607,
+      "winrate": 0.47319,
+      "positions": {
+        "1": {
+          "winCount": 1370,
+          "matchCount": 2839,
+          "winrate": 0.48256
+        },
+        "2": {
+          "winCount": 572,
+          "matchCount": 1214,
+          "winrate": 0.47117
+        },
+        "3": {
+          "winCount": 181,
+          "matchCount": 405,
+          "winrate": 0.44691
+        },
+        "4": {
+          "winCount": 31,
+          "matchCount": 75,
+          "winrate": 0.41333
+        },
+        "5": {
+          "winCount": 21,
+          "matchCount": 59,
+          "winrate": 0.35593
+        }
+      }
+    },
+    "81": {
+      "winCount": 2131,
+      "matchCount": 4291,
+      "winrate": 0.49662,
+      "positions": {
+        "1": {
+          "winCount": 536,
+          "matchCount": 1092,
+          "winrate": 0.49084
+        },
+        "2": {
+          "winCount": 82,
+          "matchCount": 143,
+          "winrate": 0.57343
+        },
+        "3": {
+          "winCount": 1412,
+          "matchCount": 2834,
+          "winrate": 0.49824
+        },
+        "4": {
+          "winCount": 59,
+          "matchCount": 130,
+          "winrate": 0.45385
+        },
+        "5": {
+          "winCount": 34,
+          "matchCount": 80,
+          "winrate": 0.425
+        }
+      }
+    },
+    "82": {
+      "winCount": 1249,
+      "matchCount": 2325,
+      "winrate": 0.5372,
+      "positions": {
+        "1": {
+          "winCount": 139,
+          "matchCount": 292,
+          "winrate": 0.47603
+        },
+        "2": {
+          "winCount": 1011,
+          "matchCount": 1819,
+          "winrate": 0.5558
+        },
+        "3": {
+          "winCount": 58,
+          "matchCount": 106,
+          "winrate": 0.54717
+        },
+        "4": {
+          "winCount": 19,
+          "matchCount": 49,
+          "winrate": 0.38776
+        },
+        "5": {
+          "winCount": 19,
+          "matchCount": 50,
+          "winrate": 0.38
+        }
+      }
+    },
+    "83": {
+      "winCount": 2187,
+      "matchCount": 4887,
+      "winrate": 0.44751,
+      "positions": {
+        "1": {
+          "winCount": 23,
+          "matchCount": 62,
+          "winrate": 0.37097
+        },
+        "2": {
+          "winCount": 13,
+          "matchCount": 48,
+          "winrate": 0.27083
+        },
+        "3": {
+          "winCount": 104,
+          "matchCount": 286,
+          "winrate": 0.36364
+        },
+        "4": {
+          "winCount": 584,
+          "matchCount": 1281,
+          "winrate": 0.45589
+        },
+        "5": {
+          "winCount": 1453,
+          "matchCount": 3193,
+          "winrate": 0.45506
+        }
+      }
+    },
+    "84": {
+      "winCount": 9494,
+      "matchCount": 18583,
+      "winrate": 0.5109,
+      "positions": {
+        "1": {
+          "winCount": 120,
+          "matchCount": 262,
+          "winrate": 0.45802
+        },
+        "2": {
+          "winCount": 998,
+          "matchCount": 1943,
+          "winrate": 0.51364
+        },
+        "3": {
+          "winCount": 1703,
+          "matchCount": 3392,
+          "winrate": 0.50206
+        },
+        "4": {
+          "winCount": 3008,
+          "matchCount": 5774,
+          "winrate": 0.52096
+        },
+        "5": {
+          "winCount": 3619,
+          "matchCount": 7120,
+          "winrate": 0.50829
+        }
+      }
+    },
+    "85": {
+      "winCount": 8745,
+      "matchCount": 17502,
+      "winrate": 0.49966,
+      "positions": {
+        "1": {
+          "winCount": 36,
+          "matchCount": 95,
+          "winrate": 0.37895
+        },
+        "2": {
+          "winCount": 94,
+          "matchCount": 194,
+          "winrate": 0.48454
+        },
+        "3": {
+          "winCount": 2221,
+          "matchCount": 4732,
+          "winrate": 0.46936
+        },
+        "4": {
+          "winCount": 2780,
+          "matchCount": 5482,
+          "winrate": 0.50711
+        },
+        "5": {
+          "winCount": 3585,
+          "matchCount": 6937,
+          "winrate": 0.51679
+        }
+      }
+    },
+    "86": {
+      "winCount": 14280,
+      "matchCount": 28685,
+      "winrate": 0.49782,
+      "positions": {
+        "1": {
+          "winCount": 61,
+          "matchCount": 157,
+          "winrate": 0.38854
+        },
+        "2": {
+          "winCount": 2792,
+          "matchCount": 5512,
+          "winrate": 0.50653
+        },
+        "3": {
+          "winCount": 281,
+          "matchCount": 622,
+          "winrate": 0.45177
+        },
+        "4": {
+          "winCount": 7355,
+          "matchCount": 14647,
+          "winrate": 0.50215
+        },
+        "5": {
+          "winCount": 3743,
+          "matchCount": 7646,
+          "winrate": 0.48954
+        }
+      }
+    },
+    "87": {
+      "winCount": 4397,
+      "matchCount": 8661,
+      "winrate": 0.50768,
+      "positions": {
+        "1": {
+          "winCount": 3,
+          "matchCount": 15,
+          "winrate": 0.2
+        },
+        "2": {
+          "winCount": 31,
+          "matchCount": 71,
+          "winrate": 0.43662
+        },
+        "3": {
+          "winCount": 5,
+          "matchCount": 15,
+          "winrate": 0.33333
+        },
+        "4": {
+          "winCount": 1046,
+          "matchCount": 2142,
+          "winrate": 0.48833
+        },
+        "5": {
+          "winCount": 3305,
+          "matchCount": 6397,
+          "winrate": 0.51665
+        }
+      }
+    },
+    "88": {
+      "winCount": 3812,
+      "matchCount": 7270,
+      "winrate": 0.52435,
+      "positions": {
+        "1": {
+          "winCount": 24,
+          "matchCount": 67,
+          "winrate": 0.35821
+        },
+        "2": {
+          "winCount": 884,
+          "matchCount": 1667,
+          "winrate": 0.53029
+        },
+        "3": {
+          "winCount": 368,
+          "matchCount": 737,
+          "winrate": 0.49932
+        },
+        "4": {
+          "winCount": 1897,
+          "matchCount": 3616,
+          "winrate": 0.52461
+        },
+        "5": {
+          "winCount": 628,
+          "matchCount": 1154,
+          "winrate": 0.54419
+        }
+      }
+    },
+    "89": {
+      "winCount": 752,
+      "matchCount": 1510,
+      "winrate": 0.49801,
+      "positions": {
+        "1": {
+          "winCount": 603,
+          "matchCount": 1238,
+          "winrate": 0.48708
+        },
+        "2": {
+          "winCount": 37,
+          "matchCount": 66,
+          "winrate": 0.56061
+        },
+        "3": {
+          "winCount": 43,
+          "matchCount": 75,
+          "winrate": 0.57333
+        },
+        "4": {
+          "winCount": 42,
+          "matchCount": 68,
+          "winrate": 0.61765
+        },
+        "5": {
+          "winCount": 23,
+          "matchCount": 57,
+          "winrate": 0.40351
+        }
+      }
+    },
+    "90": {
+      "winCount": 4193,
+      "matchCount": 8348,
+      "winrate": 0.50228,
+      "positions": {
+        "1": {
+          "winCount": 25,
+          "matchCount": 58,
+          "winrate": 0.43103
+        },
+        "2": {
+          "winCount": 2725,
+          "matchCount": 5328,
+          "winrate": 0.51145
+        },
+        "3": {
+          "winCount": 104,
+          "matchCount": 220,
+          "winrate": 0.47273
+        },
+        "4": {
+          "winCount": 938,
+          "matchCount": 1847,
+          "winrate": 0.50785
+        },
+        "5": {
+          "winCount": 393,
+          "matchCount": 874,
+          "winrate": 0.44966
+        }
+      }
+    },
+    "91": {
+      "winCount": 3530,
+      "matchCount": 7203,
+      "winrate": 0.49007,
+      "positions": {
+        "1": {
+          "winCount": 197,
+          "matchCount": 456,
+          "winrate": 0.43202
+        },
+        "2": {
+          "winCount": 860,
+          "matchCount": 1763,
+          "winrate": 0.4878
+        },
+        "3": {
+          "winCount": 92,
+          "matchCount": 233,
+          "winrate": 0.39485
+        },
+        "4": {
+          "winCount": 633,
+          "matchCount": 1238,
+          "winrate": 0.51131
+        },
+        "5": {
+          "winCount": 1732,
+          "matchCount": 3476,
+          "winrate": 0.49827
+        }
+      }
+    },
+    "92": {
+      "winCount": 1394,
+      "matchCount": 2609,
+      "winrate": 0.5343,
+      "positions": {
+        "1": {
+          "winCount": 12,
+          "matchCount": 28,
+          "winrate": 0.42857
+        },
+        "2": {
+          "winCount": 536,
+          "matchCount": 936,
+          "winrate": 0.57265
+        },
+        "3": {
+          "winCount": 588,
+          "matchCount": 1116,
+          "winrate": 0.52688
+        },
+        "4": {
+          "winCount": 158,
+          "matchCount": 325,
+          "winrate": 0.48615
+        },
+        "5": {
+          "winCount": 95,
+          "matchCount": 190,
+          "winrate": 0.5
+        }
+      }
+    },
+    "93": {
+      "winCount": 5067,
+      "matchCount": 10225,
+      "winrate": 0.49555,
+      "positions": {
+        "1": {
+          "winCount": 3738,
+          "matchCount": 7588,
+          "winrate": 0.49262
+        },
+        "2": {
+          "winCount": 660,
+          "matchCount": 1224,
+          "winrate": 0.53922
+        },
+        "3": {
+          "winCount": 312,
+          "matchCount": 619,
+          "winrate": 0.50404
+        },
+        "4": {
+          "winCount": 180,
+          "matchCount": 392,
+          "winrate": 0.45918
+        },
+        "5": {
+          "winCount": 155,
+          "matchCount": 351,
+          "winrate": 0.4416
+        }
+      }
+    },
+    "94": {
+      "winCount": 1858,
+      "matchCount": 3642,
+      "winrate": 0.51016,
+      "positions": {
+        "1": {
+          "winCount": 1603,
+          "matchCount": 3145,
+          "winrate": 0.5097
+        },
+        "2": {
+          "winCount": 96,
+          "matchCount": 191,
+          "winrate": 0.50262
+        },
+        "3": {
+          "winCount": 97,
+          "matchCount": 182,
+          "winrate": 0.53297
+        },
+        "4": {
+          "winCount": 33,
+          "matchCount": 64,
+          "winrate": 0.51562
+        },
+        "5": {
+          "winCount": 23,
+          "matchCount": 50,
+          "winrate": 0.46
+        }
+      }
+    },
+    "95": {
+      "winCount": 1301,
+      "matchCount": 2512,
+      "winrate": 0.51791,
+      "positions": {
+        "1": {
+          "winCount": 1118,
+          "matchCount": 2122,
+          "winrate": 0.52686
+        },
+        "2": {
+          "winCount": 56,
+          "matchCount": 129,
+          "winrate": 0.43411
+        },
+        "3": {
+          "winCount": 82,
+          "matchCount": 166,
+          "winrate": 0.49398
+        },
+        "4": {
+          "winCount": 16,
+          "matchCount": 47,
+          "winrate": 0.34043
+        },
+        "5": {
+          "winCount": 21,
+          "matchCount": 37,
+          "winrate": 0.56757
+        }
+      }
+    },
+    "96": {
+      "winCount": 4082,
+      "matchCount": 8192,
+      "winrate": 0.49829,
+      "positions": {
+        "1": {
+          "winCount": 23,
+          "matchCount": 53,
+          "winrate": 0.43396
+        },
+        "2": {
+          "winCount": 94,
+          "matchCount": 169,
+          "winrate": 0.55621
+        },
+        "3": {
+          "winCount": 3817,
+          "matchCount": 7655,
+          "winrate": 0.49863
+        },
+        "4": {
+          "winCount": 92,
+          "matchCount": 191,
+          "winrate": 0.48168
+        },
+        "5": {
+          "winCount": 40,
+          "matchCount": 94,
+          "winrate": 0.42553
+        }
+      }
+    },
+    "97": {
+      "winCount": 8376,
+      "matchCount": 17081,
+      "winrate": 0.49037,
+      "positions": {
+        "1": {
+          "winCount": 141,
+          "matchCount": 316,
+          "winrate": 0.4462
+        },
+        "2": {
+          "winCount": 1556,
+          "matchCount": 3049,
+          "winrate": 0.51033
+        },
+        "3": {
+          "winCount": 4269,
+          "matchCount": 8861,
+          "winrate": 0.48177
+        },
+        "4": {
+          "winCount": 1409,
+          "matchCount": 2849,
+          "winrate": 0.49456
+        },
+        "5": {
+          "winCount": 971,
+          "matchCount": 1945,
+          "winrate": 0.49923
+        }
+      }
+    },
+    "98": {
+      "winCount": 2580,
+      "matchCount": 5597,
+      "winrate": 0.46096,
+      "positions": {
+        "1": {
+          "winCount": 31,
+          "matchCount": 76,
+          "winrate": 0.40789
+        },
+        "2": {
+          "winCount": 271,
+          "matchCount": 598,
+          "winrate": 0.45318
+        },
+        "3": {
+          "winCount": 2199,
+          "matchCount": 4741,
+          "winrate": 0.46383
+        },
+        "4": {
+          "winCount": 54,
+          "matchCount": 119,
+          "winrate": 0.45378
+        },
+        "5": {
+          "winCount": 17,
+          "matchCount": 44,
+          "winrate": 0.38636
+        }
+      }
+    },
+    "99": {
+      "winCount": 2930,
+      "matchCount": 6040,
+      "winrate": 0.4851,
+      "positions": {
+        "1": {
+          "winCount": 66,
+          "matchCount": 169,
+          "winrate": 0.39053
+        },
+        "2": {
+          "winCount": 101,
+          "matchCount": 203,
+          "winrate": 0.49754
+        },
+        "3": {
+          "winCount": 2655,
+          "matchCount": 5425,
+          "winrate": 0.4894
+        },
+        "4": {
+          "winCount": 74,
+          "matchCount": 156,
+          "winrate": 0.47436
+        },
+        "5": {
+          "winCount": 26,
+          "matchCount": 67,
+          "winrate": 0.38806
+        }
+      }
+    },
+    "100": {
+      "winCount": 3959,
+      "matchCount": 8329,
+      "winrate": 0.47533,
+      "positions": {
+        "1": {
+          "winCount": 40,
+          "matchCount": 81,
+          "winrate": 0.49383
+        },
+        "2": {
+          "winCount": 212,
+          "matchCount": 404,
+          "winrate": 0.52475
+        },
+        "3": {
+          "winCount": 336,
+          "matchCount": 701,
+          "winrate": 0.47932
+        },
+        "4": {
+          "winCount": 1385,
+          "matchCount": 2984,
+          "winrate": 0.46414
+        },
+        "5": {
+          "winCount": 1967,
+          "matchCount": 4122,
+          "winrate": 0.4772
+        }
+      }
+    },
+    "101": {
+      "winCount": 6309,
+      "matchCount": 12615,
+      "winrate": 0.50012,
       "positions": {
         "1": {
           "winCount": 17,
@@ -3954,120 +3186,888 @@
           "winrate": 0.58621
         },
         "2": {
-          "winCount": 362,
-          "matchCount": 647,
-          "winrate": 0.55951
+          "winCount": 1068,
+          "matchCount": 2031,
+          "winrate": 0.52585
         },
         "3": {
-          "winCount": 1241,
-          "matchCount": 2424,
-          "winrate": 0.51196
+          "winCount": 61,
+          "matchCount": 138,
+          "winrate": 0.44203
         },
         "4": {
-          "winCount": 54,
-          "matchCount": 125,
-          "winrate": 0.432
+          "winCount": 3221,
+          "matchCount": 6434,
+          "winrate": 0.50062
+        },
+        "5": {
+          "winCount": 1916,
+          "matchCount": 3927,
+          "winrate": 0.4879
+        }
+      }
+    },
+    "102": {
+      "winCount": 2047,
+      "matchCount": 3986,
+      "winrate": 0.51355,
+      "positions": {
+        "1": {
+          "winCount": 130,
+          "matchCount": 286,
+          "winrate": 0.45455
+        },
+        "2": {
+          "winCount": 13,
+          "matchCount": 46,
+          "winrate": 0.28261
+        },
+        "3": {
+          "winCount": 490,
+          "matchCount": 963,
+          "winrate": 0.50883
+        },
+        "4": {
+          "winCount": 467,
+          "matchCount": 926,
+          "winrate": 0.50432
+        },
+        "5": {
+          "winCount": 943,
+          "matchCount": 1749,
+          "winrate": 0.53917
+        }
+      }
+    },
+    "103": {
+      "winCount": 800,
+      "matchCount": 1496,
+      "winrate": 0.53476,
+      "positions": {
+        "1": {
+          "winCount": 36,
+          "matchCount": 60,
+          "winrate": 0.6
+        },
+        "2": {
+          "winCount": 30,
+          "matchCount": 60,
+          "winrate": 0.5
+        },
+        "3": {
+          "winCount": 298,
+          "matchCount": 595,
+          "winrate": 0.50084
+        },
+        "4": {
+          "winCount": 197,
+          "matchCount": 362,
+          "winrate": 0.5442
+        },
+        "5": {
+          "winCount": 236,
+          "matchCount": 410,
+          "winrate": 0.57561
+        }
+      }
+    },
+    "104": {
+      "winCount": 8136,
+      "matchCount": 15289,
+      "winrate": 0.53215,
+      "positions": {
+        "1": {
+          "winCount": 143,
+          "matchCount": 317,
+          "winrate": 0.4511
+        },
+        "2": {
+          "winCount": 292,
+          "matchCount": 601,
+          "winrate": 0.48586
+        },
+        "3": {
+          "winCount": 7572,
+          "matchCount": 14083,
+          "winrate": 0.53767
+        },
+        "4": {
+          "winCount": 83,
+          "matchCount": 181,
+          "winrate": 0.45856
+        },
+        "5": {
+          "winCount": 31,
+          "matchCount": 67,
+          "winrate": 0.46269
+        }
+      }
+    },
+    "105": {
+      "winCount": 9048,
+      "matchCount": 18127,
+      "winrate": 0.49914,
+      "positions": {
+        "1": {
+          "winCount": 36,
+          "matchCount": 91,
+          "winrate": 0.3956
+        },
+        "2": {
+          "winCount": 845,
+          "matchCount": 1845,
+          "winrate": 0.45799
+        },
+        "3": {
+          "winCount": 161,
+          "matchCount": 357,
+          "winrate": 0.45098
+        },
+        "4": {
+          "winCount": 4792,
+          "matchCount": 9473,
+          "winrate": 0.50586
+        },
+        "5": {
+          "winCount": 3175,
+          "matchCount": 6287,
+          "winrate": 0.50501
+        }
+      }
+    },
+    "106": {
+      "winCount": 5110,
+      "matchCount": 10380,
+      "winrate": 0.49229,
+      "positions": {
+        "1": {
+          "winCount": 93,
+          "matchCount": 240,
+          "winrate": 0.3875
+        },
+        "2": {
+          "winCount": 4793,
+          "matchCount": 9636,
+          "winrate": 0.49741
+        },
+        "3": {
+          "winCount": 121,
+          "matchCount": 280,
+          "winrate": 0.43214
+        },
+        "4": {
+          "winCount": 52,
+          "matchCount": 117,
+          "winrate": 0.44444
+        },
+        "5": {
+          "winCount": 35,
+          "matchCount": 78,
+          "winrate": 0.44872
+        }
+      }
+    },
+    "107": {
+      "winCount": 3967,
+      "matchCount": 8197,
+      "winrate": 0.48396,
+      "positions": {
+        "1": {
+          "winCount": 17,
+          "matchCount": 46,
+          "winrate": 0.36957
+        },
+        "2": {
+          "winCount": 1702,
+          "matchCount": 3442,
+          "winrate": 0.49448
+        },
+        "3": {
+          "winCount": 702,
+          "matchCount": 1469,
+          "winrate": 0.47788
+        },
+        "4": {
+          "winCount": 1143,
+          "matchCount": 2353,
+          "winrate": 0.48576
+        },
+        "5": {
+          "winCount": 393,
+          "matchCount": 859,
+          "winrate": 0.45751
+        }
+      }
+    },
+    "108": {
+      "winCount": 4225,
+      "matchCount": 8961,
+      "winrate": 0.47149,
+      "positions": {
+        "1": {
+          "winCount": 26,
+          "matchCount": 47,
+          "winrate": 0.55319
+        },
+        "2": {
+          "winCount": 84,
+          "matchCount": 172,
+          "winrate": 0.48837
+        },
+        "3": {
+          "winCount": 3907,
+          "matchCount": 8315,
+          "winrate": 0.46987
+        },
+        "4": {
+          "winCount": 131,
+          "matchCount": 265,
+          "winrate": 0.49434
+        },
+        "5": {
+          "winCount": 62,
+          "matchCount": 132,
+          "winrate": 0.4697
+        }
+      }
+    },
+    "109": {
+      "winCount": 3327,
+      "matchCount": 7088,
+      "winrate": 0.46938,
+      "positions": {
+        "1": {
+          "winCount": 3128,
+          "matchCount": 6659,
+          "winrate": 0.46974
+        },
+        "2": {
+          "winCount": 29,
+          "matchCount": 65,
+          "winrate": 0.44615
+        },
+        "3": {
+          "winCount": 76,
+          "matchCount": 153,
+          "winrate": 0.49673
+        },
+        "4": {
+          "winCount": 49,
+          "matchCount": 105,
+          "winrate": 0.46667
+        },
+        "5": {
+          "winCount": 38,
+          "matchCount": 91,
+          "winrate": 0.41758
+        }
+      }
+    },
+    "110": {
+      "winCount": 4254,
+      "matchCount": 8043,
+      "winrate": 0.52891,
+      "positions": {
+        "1": {
+          "winCount": 8,
+          "matchCount": 23,
+          "winrate": 0.34783
+        },
+        "2": {
+          "winCount": 793,
+          "matchCount": 1469,
+          "winrate": 0.53982
+        },
+        "3": {
+          "winCount": 1004,
+          "matchCount": 1948,
+          "winrate": 0.5154
+        },
+        "4": {
+          "winCount": 1568,
+          "matchCount": 2952,
+          "winrate": 0.53117
+        },
+        "5": {
+          "winCount": 867,
+          "matchCount": 1625,
+          "winrate": 0.53354
+        }
+      }
+    },
+    "111": {
+      "winCount": 2840,
+      "matchCount": 5609,
+      "winrate": 0.50633,
+      "positions": {
+        "1": {
+          "winCount": 7,
+          "matchCount": 25,
+          "winrate": 0.28
+        },
+        "2": {
+          "winCount": 71,
+          "matchCount": 200,
+          "winrate": 0.355
+        },
+        "3": {
+          "winCount": 16,
+          "matchCount": 32,
+          "winrate": 0.5
+        },
+        "4": {
+          "winCount": 599,
+          "matchCount": 1171,
+          "winrate": 0.51153
+        },
+        "5": {
+          "winCount": 2141,
+          "matchCount": 4166,
+          "winrate": 0.51392
+        }
+      }
+    },
+    "112": {
+      "winCount": 4263,
+      "matchCount": 8365,
+      "winrate": 0.50962,
+      "positions": {
+        "1": {
+          "winCount": 20,
+          "matchCount": 51,
+          "winrate": 0.39216
+        },
+        "2": {
+          "winCount": 151,
+          "matchCount": 285,
+          "winrate": 0.52982
+        },
+        "3": {
+          "winCount": 150,
+          "matchCount": 265,
+          "winrate": 0.56604
+        },
+        "4": {
+          "winCount": 1103,
+          "matchCount": 2189,
+          "winrate": 0.50388
+        },
+        "5": {
+          "winCount": 2825,
+          "matchCount": 5545,
+          "winrate": 0.50947
+        }
+      }
+    },
+    "113": {
+      "winCount": 3981,
+      "matchCount": 7516,
+      "winrate": 0.52967,
+      "positions": {
+        "1": {
+          "winCount": 204,
+          "matchCount": 419,
+          "winrate": 0.48687
+        },
+        "2": {
+          "winCount": 3605,
+          "matchCount": 6704,
+          "winrate": 0.53774
+        },
+        "3": {
+          "winCount": 46,
+          "matchCount": 100,
+          "winrate": 0.46
+        },
+        "4": {
+          "winCount": 64,
+          "matchCount": 152,
+          "winrate": 0.42105
+        },
+        "5": {
+          "winCount": 50,
+          "matchCount": 116,
+          "winrate": 0.43103
+        }
+      }
+    },
+    "114": {
+      "winCount": 2359,
+      "matchCount": 5095,
+      "winrate": 0.463,
+      "positions": {
+        "1": {
+          "winCount": 1134,
+          "matchCount": 2422,
+          "winrate": 0.46821
+        },
+        "2": {
+          "winCount": 799,
+          "matchCount": 1584,
+          "winrate": 0.50442
+        },
+        "3": {
+          "winCount": 193,
+          "matchCount": 427,
+          "winrate": 0.45199
+        },
+        "4": {
+          "winCount": 124,
+          "matchCount": 354,
+          "winrate": 0.35028
+        },
+        "5": {
+          "winCount": 56,
+          "matchCount": 176,
+          "winrate": 0.31818
+        }
+      }
+    },
+    "119": {
+      "winCount": 3676,
+      "matchCount": 7628,
+      "winrate": 0.48191,
+      "positions": {
+        "1": {
+          "winCount": 24,
+          "matchCount": 57,
+          "winrate": 0.42105
+        },
+        "2": {
+          "winCount": 156,
+          "matchCount": 361,
+          "winrate": 0.43213
+        },
+        "3": {
+          "winCount": 42,
+          "matchCount": 95,
+          "winrate": 0.44211
+        },
+        "4": {
+          "winCount": 1792,
+          "matchCount": 3688,
+          "winrate": 0.4859
+        },
+        "5": {
+          "winCount": 1649,
+          "matchCount": 3403,
+          "winrate": 0.48457
+        }
+      }
+    },
+    "120": {
+      "winCount": 2220,
+      "matchCount": 4744,
+      "winrate": 0.46796,
+      "positions": {
+        "1": {
+          "winCount": 21,
+          "matchCount": 46,
+          "winrate": 0.45652
+        },
+        "2": {
+          "winCount": 1472,
+          "matchCount": 3067,
+          "winrate": 0.47995
+        },
+        "3": {
+          "winCount": 662,
+          "matchCount": 1473,
+          "winrate": 0.44942
+        },
+        "4": {
+          "winCount": 34,
+          "matchCount": 89,
+          "winrate": 0.38202
         },
         "5": {
           "winCount": 20,
-          "matchCount": 46,
-          "winrate": 0.43478
+          "matchCount": 50,
+          "winrate": 0.4
+        }
+      }
+    },
+    "121": {
+      "winCount": 5503,
+      "matchCount": 10471,
+      "winrate": 0.52555,
+      "positions": {
+        "1": {
+          "winCount": 12,
+          "matchCount": 23,
+          "winrate": 0.52174
+        },
+        "2": {
+          "winCount": 125,
+          "matchCount": 235,
+          "winrate": 0.53191
+        },
+        "3": {
+          "winCount": 40,
+          "matchCount": 74,
+          "winrate": 0.54054
+        },
+        "4": {
+          "winCount": 2304,
+          "matchCount": 4415,
+          "winrate": 0.52186
+        },
+        "5": {
+          "winCount": 3005,
+          "matchCount": 5692,
+          "winrate": 0.52793
+        }
+      }
+    },
+    "123": {
+      "winCount": 7898,
+      "matchCount": 16716,
+      "winrate": 0.47248,
+      "positions": {
+        "1": {
+          "winCount": 72,
+          "matchCount": 159,
+          "winrate": 0.45283
+        },
+        "2": {
+          "winCount": 158,
+          "matchCount": 368,
+          "winrate": 0.42935
+        },
+        "3": {
+          "winCount": 78,
+          "matchCount": 187,
+          "winrate": 0.41711
+        },
+        "4": {
+          "winCount": 4226,
+          "matchCount": 8808,
+          "winrate": 0.47979
+        },
+        "5": {
+          "winCount": 3345,
+          "matchCount": 7147,
+          "winrate": 0.46803
+        }
+      }
+    },
+    "126": {
+      "winCount": 2873,
+      "matchCount": 5784,
+      "winrate": 0.49672,
+      "positions": {
+        "1": {
+          "winCount": 80,
+          "matchCount": 150,
+          "winrate": 0.53333
+        },
+        "2": {
+          "winCount": 2424,
+          "matchCount": 4823,
+          "winrate": 0.50259
+        },
+        "3": {
+          "winCount": 242,
+          "matchCount": 502,
+          "winrate": 0.48207
+        },
+        "4": {
+          "winCount": 76,
+          "matchCount": 181,
+          "winrate": 0.41989
+        },
+        "5": {
+          "winCount": 41,
+          "matchCount": 103,
+          "winrate": 0.39806
+        }
+      }
+    },
+    "128": {
+      "winCount": 7191,
+      "matchCount": 14412,
+      "winrate": 0.49896,
+      "positions": {
+        "1": {
+          "winCount": 71,
+          "matchCount": 170,
+          "winrate": 0.41765
+        },
+        "2": {
+          "winCount": 1791,
+          "matchCount": 3460,
+          "winrate": 0.51763
+        },
+        "3": {
+          "winCount": 555,
+          "matchCount": 1208,
+          "winrate": 0.45944
+        },
+        "4": {
+          "winCount": 2682,
+          "matchCount": 5418,
+          "winrate": 0.49502
+        },
+        "5": {
+          "winCount": 2065,
+          "matchCount": 4099,
+          "winrate": 0.50378
+        }
+      }
+    },
+    "129": {
+      "winCount": 2912,
+      "matchCount": 5976,
+      "winrate": 0.48728,
+      "positions": {
+        "1": {
+          "winCount": 24,
+          "matchCount": 53,
+          "winrate": 0.45283
+        },
+        "2": {
+          "winCount": 110,
+          "matchCount": 200,
+          "winrate": 0.55
+        },
+        "3": {
+          "winCount": 2652,
+          "matchCount": 5446,
+          "winrate": 0.48696
+        },
+        "4": {
+          "winCount": 60,
+          "matchCount": 149,
+          "winrate": 0.40268
+        },
+        "5": {
+          "winCount": 53,
+          "matchCount": 104,
+          "winrate": 0.50962
+        }
+      }
+    },
+    "131": {
+      "winCount": 3625,
+      "matchCount": 7589,
+      "winrate": 0.47767,
+      "positions": {
+        "1": {
+          "winCount": 1,
+          "matchCount": 16,
+          "winrate": 0.0625
+        },
+        "2": {
+          "winCount": 11,
+          "matchCount": 33,
+          "winrate": 0.33333
+        },
+        "3": {
+          "winCount": 14,
+          "matchCount": 36,
+          "winrate": 0.38889
+        },
+        "4": {
+          "winCount": 1346,
+          "matchCount": 2862,
+          "winrate": 0.4703
+        },
+        "5": {
+          "winCount": 2249,
+          "matchCount": 4619,
+          "winrate": 0.4869
+        }
+      }
+    },
+    "135": {
+      "winCount": 6905,
+      "matchCount": 13320,
+      "winrate": 0.51839,
+      "positions": {
+        "1": {
+          "winCount": 45,
+          "matchCount": 103,
+          "winrate": 0.43689
+        },
+        "2": {
+          "winCount": 264,
+          "matchCount": 466,
+          "winrate": 0.56652
+        },
+        "3": {
+          "winCount": 6311,
+          "matchCount": 12160,
+          "winrate": 0.519
+        },
+        "4": {
+          "winCount": 155,
+          "matchCount": 352,
+          "winrate": 0.44034
+        },
+        "5": {
+          "winCount": 115,
+          "matchCount": 206,
+          "winrate": 0.55825
+        }
+      }
+    },
+    "136": {
+      "winCount": 2619,
+      "matchCount": 5293,
+      "winrate": 0.4948,
+      "positions": {
+        "1": {
+          "winCount": 137,
+          "matchCount": 308,
+          "winrate": 0.44481
+        },
+        "2": {
+          "winCount": 1147,
+          "matchCount": 2072,
+          "winrate": 0.55357
+        },
+        "3": {
+          "winCount": 427,
+          "matchCount": 841,
+          "winrate": 0.50773
+        },
+        "4": {
+          "winCount": 451,
+          "matchCount": 1037,
+          "winrate": 0.43491
+        },
+        "5": {
+          "winCount": 446,
+          "matchCount": 1013,
+          "winrate": 0.44028
+        }
+      }
+    },
+    "137": {
+      "winCount": 1772,
+      "matchCount": 3512,
+      "winrate": 0.50456,
+      "positions": {
+        "1": {
+          "winCount": 18,
+          "matchCount": 37,
+          "winrate": 0.48649
+        },
+        "2": {
+          "winCount": 379,
+          "matchCount": 687,
+          "winrate": 0.55167
+        },
+        "3": {
+          "winCount": 1272,
+          "matchCount": 2584,
+          "winrate": 0.49226
+        },
+        "4": {
+          "winCount": 69,
+          "matchCount": 131,
+          "winrate": 0.52672
+        },
+        "5": {
+          "winCount": 24,
+          "matchCount": 54,
+          "winrate": 0.44444
         }
       }
     },
     "138": {
-      "winCount": 1466,
-      "matchCount": 3125,
-      "winrate": 0.46912,
+      "winCount": 1565,
+      "matchCount": 3313,
+      "winrate": 0.47238,
       "positions": {
         "1": {
-          "winCount": 1003,
-          "matchCount": 2123,
-          "winrate": 0.47244
+          "winCount": 1049,
+          "matchCount": 2238,
+          "winrate": 0.46872
         },
         "2": {
-          "winCount": 170,
-          "matchCount": 346,
-          "winrate": 0.49133
+          "winCount": 187,
+          "matchCount": 389,
+          "winrate": 0.48072
         },
         "3": {
-          "winCount": 70,
-          "matchCount": 134,
-          "winrate": 0.52239
+          "winCount": 90,
+          "matchCount": 150,
+          "winrate": 0.6
         },
         "4": {
-          "winCount": 127,
-          "matchCount": 283,
-          "winrate": 0.44876
+          "winCount": 153,
+          "matchCount": 330,
+          "winrate": 0.46364
         },
         "5": {
-          "winCount": 57,
-          "matchCount": 160,
-          "winrate": 0.35625
+          "winCount": 76,
+          "matchCount": 190,
+          "winrate": 0.4
         }
       }
     },
     "145": {
-      "winCount": 3129,
-      "matchCount": 6852,
-      "winrate": 0.45665,
+      "winCount": 3191,
+      "matchCount": 7115,
+      "winrate": 0.44849,
       "positions": {
         "1": {
-          "winCount": 1642,
-          "matchCount": 3855,
-          "winrate": 0.42594
+          "winCount": 1711,
+          "matchCount": 4048,
+          "winrate": 0.42268
         },
         "2": {
-          "winCount": 1216,
-          "matchCount": 2406,
-          "winrate": 0.5054
+          "winCount": 1289,
+          "matchCount": 2611,
+          "winrate": 0.49368
         },
         "3": {
-          "winCount": 142,
-          "matchCount": 299,
-          "winrate": 0.47492
+          "winCount": 118,
+          "matchCount": 273,
+          "winrate": 0.43223
         },
         "4": {
-          "winCount": 31,
-          "matchCount": 64,
-          "winrate": 0.48438
+          "winCount": 35,
+          "matchCount": 81,
+          "winrate": 0.4321
         },
         "5": {
-          "winCount": 31,
-          "matchCount": 79,
-          "winrate": 0.39241
+          "winCount": 30,
+          "matchCount": 81,
+          "winrate": 0.37037
         }
       }
     },
     "155": {
-      "winCount": 1219,
-      "matchCount": 2449,
-      "winrate": 0.49775,
+      "winCount": 1265,
+      "matchCount": 2528,
+      "winrate": 0.5004,
       "positions": {
         "1": {
-          "winCount": 14,
-          "matchCount": 21,
-          "winrate": 0.66667
+          "winCount": 22,
+          "matchCount": 30,
+          "winrate": 0.73333
         },
         "2": {
-          "winCount": 53,
-          "matchCount": 117,
-          "winrate": 0.45299
+          "winCount": 59,
+          "matchCount": 125,
+          "winrate": 0.472
         },
         "3": {
-          "winCount": 388,
-          "matchCount": 827,
-          "winrate": 0.46917
+          "winCount": 410,
+          "matchCount": 865,
+          "winrate": 0.47399
         },
         "4": {
-          "winCount": 347,
-          "matchCount": 668,
-          "winrate": 0.51946
+          "winCount": 352,
+          "matchCount": 685,
+          "winrate": 0.51387
         },
         "5": {
-          "winCount": 385,
-          "matchCount": 756,
-          "winrate": 0.50926
+          "winCount": 419,
+          "matchCount": 807,
+          "winrate": 0.51921
         }
       }
     }
